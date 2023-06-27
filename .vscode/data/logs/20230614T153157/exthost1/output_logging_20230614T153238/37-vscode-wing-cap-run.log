@@ -1,0 +1,18 @@
+{
+  "label": "vscode-wing-cap-run",
+  "level": "warn",
+  "message": "Activating the 'vscode-wing-cap-run' extension...",
+  "time": "2023-06-14T15:32:54.417Z"
+}
+{
+  "label": "vscode-wing-cap-run",
+  "level": "warn",
+  "message": "The \"vscode-wing-cap-run\" extension is now active.",
+  "time": "2023-06-14T15:32:54.430Z"
+}
+{
+  "label": "vscode-wing-cap-run",
+  "level": "warn",
+  "message": "Language Client of CDS LSP is ready.",
+  "time": "2023-06-14T15:32:54.431Z"
+}

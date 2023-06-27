@@ -1,0 +1,71 @@
+2023-06-14 19:02:59.117 [error] No bundle location found for extension SAP.vscode-wing-run-config
+2023-06-14 19:03:00.070 [error] No bundle location found for extension SAP.vscode-wing-cf-tools
+2023-06-14 19:03:00.160 [error] No bundle location found for extension SAPSE.sap-ux-service-modeler-extension
+2023-06-14 19:03:01.227 [error] No bundle location found for extension mtxr.sqltools
+2023-06-14 19:03:01.228 [error] No bundle location found for extension SAP.vscode-bas-extension
+2023-06-14 19:03:01.228 [error] No bundle location found for extension SAPOSS.vscode-dependencies-validation
+2023-06-14 19:03:01.228 [error] No bundle location found for extension SAPOSS.vscode-deps-upgrade-tool
+2023-06-14 19:03:01.228 [error] No bundle location found for extension SAPSE.vscode-node-version-check
+2023-06-14 19:03:01.228 [error] No bundle location found for extension SAPSE.vscode-tasks-explorer-tasks-panel
+2023-06-14 19:03:01.228 [error] No bundle location found for extension SAPOSS.vscode-ui5-language-assistant
+2023-06-14 19:03:01.228 [error] No bundle location found for extension SAPSE.vscode-cds
+2023-06-14 19:03:01.228 [error] No bundle location found for extension SAPSE.vscode-wing-cds-editor-bas
+2023-06-14 19:03:01.229 [error] No bundle location found for extension SAPSE.vscode-wing-expose-router-ports
+2023-06-14 19:03:01.229 [error] No bundle location found for extension SAP.vscode-wing-gerrit
+2023-06-14 19:03:01.229 [error] No bundle location found for extension SAPSE.vscode-wing-java-run
+2023-06-14 19:03:01.229 [error] No bundle location found for extension SAP.vscode-wing-welcome-screen
+2023-06-14 19:03:03.354 [error] Error: listen EADDRINUSE: address already in use :::3001
+	at Server.setupListenHandle [as _listen2] (node:net:1319:16)
+	at listenInCluster (node:net:1367:12)
+	at Server.listen (node:net:1454:7)
+	at Function.y.listen (/extbin/local/openvscode-server/extensions/vscode-wing-expose-router-ports-2.0.3-release/bundle/extension.js:256:4551)
+	at /extbin/local/openvscode-server/extensions/vscode-wing-expose-router-ports-2.0.3-release/bundle/extension.js:169:66794
+	at /extbin/local/openvscode-server/extensions/vscode-wing-expose-router-ports-2.0.3-release/bundle/extension.js:169:66923
+	at t.activate (/extbin/local/openvscode-server/extensions/vscode-wing-expose-router-ports-2.0.3-release/bundle/extension.js:169:66926)
+	at Function.eb (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:14676)
+	at Function.db (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:14380)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:12406
+	at async w.n (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:6646)
+	at async w.m (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:6609)
+	at async w.l (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:6066)
+2023-06-14 19:03:03.773 [error] No bundle location found for extension SAP.vscode-watt-framework-extension
+2023-06-14 19:03:04.015 [error] No bundle location found for extension SAPOSS.code-snippet
+2023-06-14 19:03:04.015 [error] No bundle location found for extension SAPSE.fs-usage-popup-vscode-extensions
+2023-06-14 19:03:04.015 [error] No bundle location found for extension donjayamanne.githistory
+2023-06-14 19:03:04.016 [error] No bundle location found for extension SAPOSS.app-studio-toolkit-themes
+2023-06-14 19:03:04.409 [error] No bundle location found for extension eamodio.gitlens
+2023-06-14 19:03:04.496 [error] No bundle location found for extension SAPSE.sap-ux-help-extension
+2023-06-14 19:03:05.888 [error] No bundle location found for extension SAPSE.sap-ux-application-modeler-extension
+2023-06-14 19:03:05.889 [error] No bundle location found for extension SAPOSS.app-studio-toolkit
+2023-06-14 19:03:05.889 [error] No bundle location found for extension vscode.git-base
+2023-06-14 19:03:08.259 [error] No bundle location found for extension mtxr.sqltools-driver-sqlite
+2023-06-14 19:03:08.271 [error] No bundle location found for extension SAP.hana-runtime-tools
+2023-06-14 19:03:08.288 [error] No bundle location found for extension sap.process-template-editor-vscode
+2023-06-14 19:03:08.288 [error] No bundle location found for extension SAP.mta-editor-vscode
+2023-06-14 19:03:08.442 [error] No bundle location found for extension SAPSE.webide-hdi-base-feature-vscode
+2023-06-14 19:03:08.442 [error] No bundle location found for extension SAP.vscode-bas-extensibility
+2023-06-14 19:03:08.476 [error] No bundle location found for extension SAP.sap-bas-vscode-w5g
+2023-06-14 19:03:08.480 [error] No bundle location found for extension sap.workflow-editor-vscode
+2023-06-14 19:03:08.603 [error] No bundle location found for extension SAPSE.hana-project-explorer
+2023-06-14 19:03:08.603 [error] No bundle location found for extension SAPSE.webide-hdi-feature-vscode
+2023-06-14 19:03:09.434 [error] No bundle location found for extension SAPOSS.guided-development
+2023-06-14 19:03:09.567 [error] No bundle location found for extension vscode.git
+2023-06-14 19:03:09.699 [error] No bundle location found for extension SAPSE.vscode-wing-storyboard
+2023-06-14 19:03:09.964 [error] No bundle location found for extension SAPSE.lcap-task-contrib
+2023-06-14 19:03:09.964 [error] No bundle location found for extension SAP.hana-eim-sdi
+2023-06-14 19:03:10.070 [error] No bundle location found for extension sap.workflow-form-editor-vscode
+2023-06-14 19:03:10.089 [error] No bundle location found for extension vscode.debug-auto-launch
+2023-06-14 19:03:10.096 [error] No bundle location found for extension vscode.merge-conflict
+2023-06-14 19:03:10.127 [error] No bundle location found for extension SAPOS.yeoman-ui
+2023-06-14 19:03:10.127 [error] No bundle location found for extension SAPSE.vscode-wing-cap-guided-development
+2023-06-14 19:03:11.658 [error] No bundle location found for extension vscode.configuration-editing
+2023-06-14 19:03:11.674 [error] No bundle location found for extension vscode.json-language-features
+2023-06-14 19:03:11.674 [error] No bundle location found for extension SAPSE.hana-sqlscript-lsp
+2023-06-14 19:03:12.070 [error] No bundle location found for extension vscode.typescript-language-features
+2023-06-14 19:03:12.158 [error] No bundle location found for extension SAPSE.cicd-extension
+2023-06-14 19:03:12.254 [error] No bundle location found for extension vscode.emmet
+2023-06-14 19:03:12.328 [error] No bundle location found for extension SAPSE.hana-database-explorer
+2023-06-14 19:03:13.386 [error] No bundle location found for extension SAP.adp-ve-bas-ext
+2023-06-14 19:03:13.386 [error] No bundle location found for extension SAPSE.vscode-mta-tools
+2023-06-14 19:03:14.047 [error] No bundle location found for extension SAPSE.vscode-wing-cap-run
+2023-06-14 19:06:38.270 [error] No bundle location found for extension vscode.npm

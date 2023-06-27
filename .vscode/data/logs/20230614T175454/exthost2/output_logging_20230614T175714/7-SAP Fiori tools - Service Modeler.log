@@ -1,0 +1,24 @@
+17:57:20 [INFO] - AppFolders: starting processing setAppFoldersContext()
+17:57:22 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:57:22 [INFO] - AppFolders: Function setContext() done in 1885.421ms
+17:57:26 [INFO] - AppFolders: Directory 'file:///home/user/projects/proj1/.vscode' changed, updating app folders in context. 
+17:57:26 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:57:26 [INFO] - AppFolders: Function setContext() done in 39.496ms

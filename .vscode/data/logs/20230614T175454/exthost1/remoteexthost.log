@@ -1,0 +1,86 @@
+2023-06-14 17:56:31.685 [error] No bundle location found for extension SAP.vscode-watt-framework-extension
+2023-06-14 17:56:31.845 [error] No bundle location found for extension SAPOSS.app-studio-toolkit
+2023-06-14 17:56:31.845 [error] No bundle location found for extension SAPOSS.app-studio-toolkit-themes
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAPOSS.code-snippet
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAPSE.fs-usage-popup-vscode-extensions
+2023-06-14 17:56:32.252 [error] No bundle location found for extension vscode.git-base
+2023-06-14 17:56:32.252 [error] No bundle location found for extension donjayamanne.githistory
+2023-06-14 17:56:32.252 [error] No bundle location found for extension eamodio.gitlens
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAP.vscode-wing-cf-tools
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAPSE.sap-ux-application-modeler-extension
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAPSE.sap-ux-help-extension
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAPSE.sap-ux-service-modeler-extension
+2023-06-14 17:56:32.252 [error] No bundle location found for extension mtxr.sqltools
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAP.vscode-bas-extension
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAPOSS.vscode-dependencies-validation
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAPOSS.vscode-deps-upgrade-tool
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAPSE.vscode-node-version-check
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAPSE.vscode-tasks-explorer-tasks-panel
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAPOSS.vscode-ui5-language-assistant
+2023-06-14 17:56:32.252 [error] No bundle location found for extension SAP.vscode-wing-run-config
+2023-06-14 17:56:37.811 [error] No bundle location found for extension SAPSE.vscode-cds
+2023-06-14 17:56:37.811 [error] No bundle location found for extension SAPSE.vscode-wing-cds-editor-bas
+2023-06-14 17:56:37.811 [error] No bundle location found for extension SAPSE.vscode-wing-expose-router-ports
+2023-06-14 17:56:37.811 [error] No bundle location found for extension SAP.vscode-wing-gerrit
+2023-06-14 17:56:37.811 [error] No bundle location found for extension SAPSE.vscode-wing-java-run
+2023-06-14 17:56:37.811 [error] No bundle location found for extension SAP.vscode-wing-welcome-screen
+2023-06-14 17:56:38.972 [error] No bundle location found for extension sap.process-template-editor-vscode
+2023-06-14 17:56:39.059 [error] No bundle location found for extension SAP.sap-bas-vscode-w5g
+2023-06-14 17:56:39.062 [error] No bundle location found for extension SAP.hana-runtime-tools
+2023-06-14 17:56:39.062 [error] No bundle location found for extension SAP.vscode-bas-extensibility
+2023-06-14 17:56:39.063 [error] No bundle location found for extension SAP.mta-editor-vscode
+2023-06-14 17:56:39.164 [error] No bundle location found for extension SAPSE.webide-hdi-base-feature-vscode
+2023-06-14 17:56:39.184 [error] No bundle location found for extension sap.workflow-editor-vscode
+2023-06-14 17:56:39.222 [error] Error: Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.
+    at E.y (https://theia-workspaces-ws-hgx9c.us10.trial.applicationstudio.cloud.sap/oss-d605fb4bfb7309c93aafa72a866fb9556573def7/static/out/vs/workbench/workbench.web.main.js:2118:50983)
+    at E (https://theia-workspaces-ws-hgx9c.us10.trial.applicationstudio.cloud.sap/oss-d605fb4bfb7309c93aafa72a866fb9556573def7/static/out/vs/workbench/workbench.web.main.js:2118:53900)
+    at E.n (https://theia-workspaces-ws-hgx9c.us10.trial.applicationstudio.cloud.sap/oss-d605fb4bfb7309c93aafa72a866fb9556573def7/static/out/vs/workbench/workbench.web.main.js:2118:48012)
+    at Object.factory (https://theia-workspaces-ws-hgx9c.us10.trial.applicationstudio.cloud.sap/oss-d605fb4bfb7309c93aafa72a866fb9556573def7/static/out/vs/workbench/workbench.web.main.js:2118:47912)
+    at A.h (https://theia-workspaces-ws-hgx9c.us10.trial.applicationstudio.cloud.sap/oss-d605fb4bfb7309c93aafa72a866fb9556573def7/static/out/vs/workbench/workbench.web.main.js:87:15893)
+    at https://theia-workspaces-ws-hgx9c.us10.trial.applicationstudio.cloud.sap/oss-d605fb4bfb7309c93aafa72a866fb9556573def7/static/out/vs/workbench/workbench.web.main.js:87:15805
+    at new Promise (<anonymous>)
+    at A.queue (https://theia-workspaces-ws-hgx9c.us10.trial.applicationstudio.cloud.sap/oss-d605fb4bfb7309c93aafa72a866fb9556573def7/static/out/vs/workbench/workbench.web.main.js:87:15747)
+    at E.writeConfiguration (https://theia-workspaces-ws-hgx9c.us10.trial.applicationstudio.cloud.sap/oss-d605fb4bfb7309c93aafa72a866fb9556573def7/static/out/vs/workbench/workbench.web.main.js:2118:47881)
+    at F.Hb (https://theia-workspaces-ws-hgx9c.us10.trial.applicationstudio.cloud.sap/oss-d605fb4bfb7309c93aafa72a866fb9556573def7/static/out/vs/workbench/workbench.web.main.js:2118:73870)
+2023-06-14 17:56:39.244 [error] No bundle location found for extension mtxr.sqltools-driver-sqlite
+2023-06-14 17:56:39.257 [error] No bundle location found for extension SAPOSS.guided-development
+2023-06-14 17:56:39.323 [error] No bundle location found for extension SAPOS.yeoman-ui
+2023-06-14 17:56:40.253 [error] No bundle location found for extension SAPSE.lcap-task-contrib
+2023-06-14 17:56:40.283 [error] No bundle location found for extension vscode.git
+2023-06-14 17:56:40.465 [error] No bundle location found for extension SAPSE.vscode-wing-cap-guided-development
+2023-06-14 17:56:40.970 [error] No bundle location found for extension SAPSE.webide-hdi-feature-vscode
+2023-06-14 17:56:40.990 [error] No bundle location found for extension SAPSE.hana-project-explorer
+2023-06-14 17:56:41.400 [error] No bundle location found for extension SAPSE.vscode-wing-storyboard
+2023-06-14 17:56:41.551 [error] No bundle location found for extension SAP.hana-eim-sdi
+2023-06-14 17:56:41.556 [error] No bundle location found for extension sap.workflow-form-editor-vscode
+2023-06-14 17:56:41.594 [error] No bundle location found for extension SAPSE.cicd-extension
+2023-06-14 17:56:41.681 [error] No bundle location found for extension SAP.adp-ve-bas-ext
+2023-06-14 17:56:41.681 [error] No bundle location found for extension SAPSE.vscode-mta-tools
+2023-06-14 17:56:42.003 [error] No bundle location found for extension SAPSE.hana-database-explorer
+2023-06-14 17:56:42.702 [error] No bundle location found for extension vscode.debug-auto-launch
+2023-06-14 17:56:42.702 [error] No bundle location found for extension vscode.merge-conflict
+2023-06-14 17:56:42.743 [error] No bundle location found for extension SAPSE.vscode-wing-cap-run
+2023-06-14 17:57:10.194 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:108:8301
+	at Array.forEach (<anonymous>)
+	at s.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:108:8266)
+	at w.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:9366)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:124:18690)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:124:16600
+	at w.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14916)
+	at r.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18982)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16970
+	at w.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12647)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11934
+	at w.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at n.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:28899) setContext undefined

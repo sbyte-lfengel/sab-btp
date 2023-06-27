@@ -1,0 +1,3 @@
+AppFolders: starting processing setAppFoldersContext()
+AppFolders: Error executing setAppFoldersContext(): Cannot read properties of undefined (reading 'forEach')
+AppFolders: Function setContext() done in 0.125ms
