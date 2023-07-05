@@ -1,0 +1,18 @@
+{
+  "label": "vscode-wing-cap-guided-development",
+  "level": "warn",
+  "message": "Activating the 'vscode-wing-cap-guided-development' extension...",
+  "time": "2023-06-29T20:00:21.796Z"
+}
+{
+  "label": "vscode-wing-cap-guided-development",
+  "level": "warn",
+  "message": "Feature: 'capSnippet.showCAPJavaSnippet' not enabled",
+  "time": "2023-06-29T20:00:23.939Z"
+}
+{
+  "label": "vscode-wing-cap-guided-development",
+  "level": "warn",
+  "message": "The \"vscode-wing-cap-guided-development\" extension is now active.",
+  "time": "2023-06-29T20:00:23.939Z"
+}

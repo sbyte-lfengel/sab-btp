@@ -1,0 +1,12 @@
+{
+  "label": "Run Configurations.configFilesHelper",
+  "level": "error",
+  "message": "readFile: could not parse </home/user/projects/HC_OFFICE_SUPLLIES/.vscode/launch.json> file content",
+  "time": "2023-06-29T20:00:21.062Z"
+}
+{
+  "label": "Run Configurations.configFilesHelper",
+  "level": "error",
+  "message": "",
+  "time": "2023-06-29T20:00:21.063Z"
+}

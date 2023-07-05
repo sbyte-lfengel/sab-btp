@@ -46,3 +46,9 @@ AppFolders:
 	subWebappRoots: 0
 	manifestAppDescRoots: 0
 AppFolders: Function setContext() done in 87.002ms
+AppFolders: Directory 'file:///home/user/.git/logs' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 59.216ms

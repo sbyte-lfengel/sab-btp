@@ -1,0 +1,2 @@
+[2023-06-29 19:59:19:047]  — FAILED
+Error: EACCES: permission denied, scandir '/home/lost+found'

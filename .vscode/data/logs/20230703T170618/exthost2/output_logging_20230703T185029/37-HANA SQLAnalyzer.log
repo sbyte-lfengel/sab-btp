@@ -1,0 +1,4 @@
+[2023-07-03 18:54:45.397Z] [debug] Activate extension START 
+[2023-07-03 18:55:09.161Z] [debug] Global storage set to /home/user/.vscode/data/User/globalStorage/sapse.appstudio-extension-sa 
+[2023-07-03 18:55:09.161Z] [debug] Global storage does not exist. Creating path /home/user/.vscode/data/User/globalStorage/sapse.appstudio-extension-sa 
+[2023-07-03 18:55:09.164Z] [debug] Activate extension DONE 

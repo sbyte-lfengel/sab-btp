@@ -1,0 +1,196 @@
+npm config set registry https://registry.npmjs.org
+npm config set @devx-wing:registry https://common.repositories.cloud.sap/api/npm/devx-npm-live/
+npm config set @bas-dev:registry https://common.repositories.cloud.sap/api/npm/devx-npm-live/
+npm config set @adaptation-project:registry https://registry.npmjs.org/
+npm config set @sap-cds:registry https://common.repositories.cloud.sap/api/npm/deploy.releases.npm/
+npm config set @sap-lcnc:registry https://common.repositories.cloud.sap/api/npm/deploy.releases.npm/
+npm config set @ext-dptvsc-npm-vscode:registry https://common.repositories.cloud.sap/api/npm/deploy.releases.npm/
+npm config set @ext-dptvsc-npm-dev:registry https://common.repositories.cloud.sap/artifactory/api/npm/lcapextension/
+npm config set @artifact-management:registry https://npmjs.com/package/artifact-management/
+npm config set @workflow:registry https://common.repositories.cloud.sap/artifactory/api/npm/build.releases.npm/
+npm config set @sap-ux-rel:registry https://common.repositories.cloud.sap/artifactory/api/npm/deploy.milestones.npm/
+Total <npm configuration> time: 8.42 seconds
+pnpm add -g --global-dir /extbin/globals/pnpm --global-bin-dir /extbin/globals/pnpm/bin --cache-dir /local/pnpm/.cache --config.updateNotifier=false --loglevel=warn @sap/cds-dk@6.8.2 @sap/artifact-management@1.20.0 @sapse/business-application-studio-extension-management@^1.0.0
+Total <install CLI modules> time: 0.00 seconds
+ WARN  deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+ WARN  deprecated request-promise-native@1.0.9: request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142
+ WARN  deprecated w3c-hr-time@1.0.2: Use your platform's native performance.now() and performance.timeOrigin.
+ WARN  deprecated har-validator@5.1.5: this library is no longer supported
+ WARN  deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+Total <download *.vsix> time: 17.66 seconds
+ WARN  deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+Packages are hard linked from the content-addressable store to the virtual store.
+  Content-addressable store is at: /extbin/.pnpm-store/v3
+  Virtual store is at:             .pnpm
+.../node_modules/@sap/hana-client install$ node checkbuild.js
+.../node_modules/@sap/hana-client install: Done
+.../node_modules/sqlite3 install$ node-pre-gyp install --fallback-to-build
+.../node_modules/sqlite3 install: [sqlite3] Success: "/extbin/globals/pnpm/5/.pnpm/registry.npmjs.org+sqlite3@5.1.6/node_modules/sqlite3/lib/binding/napi-v6-linux-glibc-x64/node_sqlite3.node" is installed via remote
+.../node_modules/sqlite3 install: Done
+
+/extbin/globals/pnpm/5:
++ @sap/artifact-management 1.20.0 (1.23.4 is available)
++ @sap/cds-dk 6.8.2 (7.0.0 is available)
++ @sapse/business-application-studio-extension-management 1.1.0
+
+ WARN  Issues with peer dependencies found
+.
+└─┬ @sapse/business-application-studio-extension-management 1.1.0
+  └─┬ axios-cookiejar-support 1.0.0
+    └── ✕ missing peer @types/tough-cookie@>=2.3.3
+Peer dependencies that should be installed:
+  @types/tough-cookie@>=2.3.3
+
+Done in 30.5s
+Total <install global npm modules> time: 33.46 seconds
+pnpm add -g --global-dir /extbin/globals/pnpm --global-bin-dir /extbin/globals/pnpm/bin --cache-dir /local/pnpm/.cache --config.updateNotifier=false --loglevel=warn @sap/adp-abap@1.1.38 @sap/adp-cf@1.1.38 @sap/adp-common@1.1.38 @sap/adp-cli@1.1.38 @sap/generator-adaptation-project@1.1.38 @sap/generator-cap-project@1.7.2 @sap/generator-fiori@1.10.1 @workflow/generator-workflow-module@1.14.0 @workflow/generator-workflow-sample@1.12.0
+ WARN  deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+ WARN  deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+ WARN  deprecated request-promise-native@1.0.9: request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142
+ WARN  deprecated w3c-hr-time@1.0.2: Use your platform's native performance.now() and performance.timeOrigin.
+ WARN  deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+ WARN  deprecated har-validator@5.1.5: this library is no longer supported
+ WARN  deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+.../node_modules/fast-xml-parser postinstall$ node tasks/postinstall.js || exit 0
+.../node_modules/fast-xml-parser postinstall: Love fast-xml-parser? Check https://amitkumargupta.work for more projects and contribution.
+.../node_modules/fast-xml-parser postinstall: Done
+.../node_modules/keytar install$ prebuild-install || npm run build
+.../node_modules/keytar install: Done
+ WARN  @sap/adp-abap has no binaries
+ WARN  @sap/adp-cf has no binaries
+ WARN  @sap/adp-common has no binaries
+ WARN  @sap/generator-adaptation-project has no binaries
+ WARN  @sap/generator-cap-project has no binaries
+ WARN  @sap/generator-fiori has no binaries
+ WARN  @workflow/generator-workflow-module has no binaries
+ WARN  @workflow/generator-workflow-sample has no binaries
+
+/extbin/globals/pnpm/5:
++ @sap/adp-abap 1.1.38
++ @sap/adp-cf 1.1.38
++ @sap/adp-cli 1.1.38
++ @sap/adp-common 1.1.38
++ @sap/generator-adaptation-project 1.1.38
++ @sap/generator-cap-project 1.7.2
++ @sap/generator-fiori 1.10.1
++ @workflow/generator-workflow-module 1.14.0
++ @workflow/generator-workflow-sample 1.12.0
+
+ WARN  Issues with peer dependencies found
+.
+└─┬ @sapse/business-application-studio-extension-management 1.1.0
+  └─┬ axios-cookiejar-support 1.0.0
+    └── ✕ missing peer @types/tough-cookie@>=2.3.3
+Peer dependencies that should be installed:
+  @types/tough-cookie@>=2.3.3
+
+Done in 7.8s
+/usr/bin/npm install --prefix /extbin/npm/globals -g @bas-dev/generator-basic-multitarget-application@1.1.6 @ext-dptvsc-npm-dev/generator-cicd@1.18.0-2 @sap/generator-add-hdb-module@1.8.0 @sap/generator-hdb-project@1.8.0
++ @bas-dev/generator-basic-multitarget-application@1.1.6
++ @ext-dptvsc-npm-dev/generator-cicd@1.18.0-2
++ @sap/generator-hdb-project@1.8.0
++ @sap/generator-add-hdb-module@1.8.0
+added 769 packages from 265 contributors in 17.583s
+Total <install generators> time: 26.20 seconds
+Installation summary of Yeoman generators, global npm packages, VS Code extensions, and CLIs:
+Installation summary of the "ext-hana-tools-trial/smart-data-integration-tools" extension (created by "SAP(HAN-BAS-SDI)"):
+    The @sap/hana-eim-sditools-vscode VS Code extension was installed successfully.
+Installation summary of the "ext-mckbj-trial/development-productivity-tools" extension (created by "SAP(MOB-MDE-MDK)"):
+    The @sap-lcnc/simplified-git VS Code extension was installed successfully.
+    The @sap-lcnc/simplified-git VS Code extension signature was validated successfully.
+    The @ext-dptvsc-npm-vscode/cicd-extension VS Code extension was installed successfully.
+    The @ext-dptvsc-npm-vscode/cicd-extension VS Code extension signature was validated successfully.
+    The @sap-lcnc/guided-development VS Code extension was installed successfully.
+    The @sap-lcnc/guided-development VS Code extension signature was validated successfully.
+    The @ext-dptvsc-npm-vscode/lcap-task-contrib VS Code extension was installed successfully.
+    The @ext-dptvsc-npm-vscode/lcap-task-contrib VS Code extension signature was validated successfully.
+    The @sap-lcnc/run-config VS Code extension was installed successfully.
+    The @sap-lcnc/run-config VS Code extension signature was validated successfully.
+    The @sap-lcnc/csdl-modeler VS Code extension was installed successfully.
+    The @sap-lcnc/csdl-modeler VS Code extension signature was validated successfully.
+    The @sap/artifact-management node module was installed successfully.
+    The @ext-dptvsc-npm-dev/generator-cicd node module was installed successfully.
+Installation summary of the "java-dev-tools/java-dev-tools" extension:
+    The @devx-wing/vscode-java-dependency VS Code extension was installed successfully.
+    The @devx-wing/vscode-java-dependency VS Code extension signature was validated successfully.
+    The @devx-wing/vscode-java-run VS Code extension was installed successfully.
+    The @devx-wing/vscode-java-run VS Code extension signature was validated successfully.
+    The @devx-wing/vscode-java-debug VS Code extension was installed successfully.
+    The @devx-wing/vscode-java-debug VS Code extension signature was validated successfully.
+    The @devx-wing/vscode-java-test VS Code extension was installed successfully.
+    The @devx-wing/vscode-java-test VS Code extension signature was validated successfully.
+    The @devx-wing/vscode-redhat-java VS Code extension was installed successfully.
+    The @devx-wing/vscode-redhat-java VS Code extension signature was validated successfully.
+    The @devx-wing/vscode-spring-boot-tools VS Code extension was installed successfully.
+    The @devx-wing/vscode-spring-boot-tools VS Code extension signature was validated successfully.
+Installation summary of the "ext-bpm-workflow-trial/workflow" extension (created by "SAP(LOD-BPM-WFS)"):
+    The @workflow/form-editor-vscode VS Code extension was installed successfully.
+    The @workflow/form-editor-vscode VS Code extension signature was validated successfully.
+    The @workflow/workflow-editor-vscode VS Code extension was installed successfully.
+    The @workflow/workflow-editor-vscode VS Code extension signature was validated successfully.
+    The @workflow/generator-workflow-module node module was installed successfully.
+    The @workflow/generator-workflow-sample node module was installed successfully.
+Installation summary of the "w5g-wing/w5g-wing" extension:
+    The @bas-dev/vscode-bas-extensibility VS Code extension was installed successfully.
+    The @bas-dev/vscode-bas-extensibility VS Code extension signature was validated successfully.
+    The @bas-dev/vscode-w5g VS Code extension was installed successfully.
+    The @bas-dev/vscode-w5g VS Code extension signature was validated successfully.
+Installation summary of the "ext-hana-tools-trial/hana-tools" extension (created by "SAP(HAN-BAS)"):
+    The @sap/hana-theme-vscode VS Code extension was installed successfully.
+    The @sap/hrtt-core-vscode VS Code extension was installed successfully.
+    The @sap/hana-sqlscript-lsp VS Code extension was installed successfully.
+    The @sap/hana-project-explorer VS Code extension was installed successfully.
+    The @sap/generator-add-hdb-module node module was installed successfully.
+    The @sap/generator-hdb-project node module was installed successfully.
+Installation summary of the "ext-hana-tools-trial/hana-calculation-view-editor-base" extension (created by "SAP(HAN-BAS-EDT-MOD)"):
+    The @sap/webide-hdi-base-feature-vscode VS Code extension was installed successfully.
+Installation summary of the "mta-tools/mta-tools" extension:
+    The @sap_oss/vscode-mta-tools VS Code extension was installed successfully.
+    The @bas-dev/vscode-mta-editor VS Code extension was installed successfully.
+    The @bas-dev/vscode-mta-editor VS Code extension signature was validated successfully.
+    The @bas-dev/generator-basic-multitarget-application node module was installed successfully.
+Installation summary of the "vscode-service-center/vscode-service-center" extension:
+    The @bas-dev/vscode-wing-service-center VS Code extension was installed successfully.
+    The @bas-dev/vscode-wing-service-center VS Code extension signature was validated successfully.
+Installation summary of the "ext-bpm-workflow-trial/process-template" extension (created by "SAP(LOD-BPM-WFS)"):
+    The @workflow/process-template-editor-vscode VS Code extension was installed successfully.
+    The @workflow/process-template-editor-vscode VS Code extension signature was validated successfully.
+Installation summary of the "ext-hana-tools-trial/hana-calculation-view-editor" extension (created by "SAP(HAN-BAS-EDT-MOD)"):
+    The @sap/webide-hdi-feature-vscode VS Code extension was installed successfully.
+Installation summary of the "ext-cdstoolsbastrial/cds-bas-extension" extension (created by "SAP(HAN-WDE-EDT-CDS)"):
+    The @sap/vscode-cds VS Code extension was installed successfully.
+    The @sap/cds-dk node module was installed successfully.
+    The @sap/generator-cap-project node module was installed successfully.
+Installation summary of the "ext-adaptation-project-trial/adaptation-project" extension (created by "SAP(CA-UI5-FL-ADP-BAS)"):
+    The @sap/adp-ve-bas-ext VS Code extension was installed successfully.
+    The @sap/adp-ve-bas-ext VS Code extension signature was validated successfully.
+    The @sap/adp-abap node module was installed successfully.
+    The @sap/adp-cf node module was installed successfully.
+    The @sap/adp-common node module was installed successfully.
+    The @sap/adp-cli node module was installed successfully.
+    The @sap/generator-adaptation-project node module was installed successfully.
+Installation summary of the "ext-mckbj-trial/cds-modeller" extension (created by "SAP(MOB-MDE-MBG)"):
+    The @sap-cds/cds-editor VS Code extension was installed successfully.
+    The @sap-cds/cds-editor VS Code extension signature was validated successfully.
+Installation summary of the "ext-sap-ux-trial/sap-ux-all-extensions" extension (created by "SAP(CA-UX-IDE)"):
+    The @sap-ux-rel/sap-ux-service-modeler-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-service-modeler-extension VS Code extension signature was validated successfully.
+    The @sap-ux-rel/sap-ux-annotation-modeler-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-annotation-modeler-extension VS Code extension signature was validated successfully.
+    The @ui5-language-assistant/vscode-ui5-language-assistant-bas-ext VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-help-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-help-extension VS Code extension signature was validated successfully.
+    The @sap-ux-rel/sap-ux-application-modeler-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-application-modeler-extension VS Code extension signature was validated successfully.
+    The @sap/generator-fiori node module was installed successfully.
+Installation summary of the "ext-hana-tools-trial/hana-performance-tools" extension (created by "SAP(HAN-BAS-SA)"):
+    The @sap/hana-performance-tools VS Code extension was installed successfully.
+Installation summary of the "ext-hana-tools-trial/hana-runtime-tools" extension (created by "SAP(HAN-BAS)"):
+    The @sap/hana-database-explorer VS Code extension was installed successfully.
+Installation summary of the "ext-devxmonaco-trial/wex" extension (created by "SAP(CA-BAS)"):
+    The @sapse/business-application-studio-extension-management node module was installed successfully.
+Finished installing App Studio simple extensions components!
+Total install time: 70147 milliseconds
+
+
+START INSTALLATION OF NON SAP EXTENSIONS

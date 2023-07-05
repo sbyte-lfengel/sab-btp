@@ -1,7 +1,7 @@
 [credential]
 	helper = /home/user/.bas-git/bas-git-helper-init.sh
 [user]
-	email = git_email@sinosbyte.com.br
+	email = lfengel@sinosbyte.com.br
 	name = lfengel
 [init]
 	defaultBranch = main

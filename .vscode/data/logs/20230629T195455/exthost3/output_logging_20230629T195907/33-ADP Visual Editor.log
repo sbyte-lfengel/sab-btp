@@ -1,0 +1,21 @@
+AppFolders: starting processing setAppFoldersContext()
+AppFolders: Error executing setAppFoldersContext(): EACCES: permission denied, scandir '/home/lost+found'
+AppFolders: Function setContext() done in 61.024ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20230629T195455/exthost3/vscode.git' changed, updating app folders in context. 
+AppFolders: Error executing setAppFoldersContext(): EACCES: permission denied, scandir '/home/lost+found'
+AppFolders: Function setContext() done in 3.707ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20230629T195455/exthost3/SAPSE.hana-project-explorer' changed, updating app folders in context. 
+AppFolders: Error executing setAppFoldersContext(): EACCES: permission denied, scandir '/home/lost+found'
+AppFolders: Function setContext() done in 5.113ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20230629T195455/exthost3/SAPSE.vscode-mta-tools' changed, updating app folders in context. 
+AppFolders: Error executing setAppFoldersContext(): EACCES: permission denied, scandir '/home/lost+found'
+AppFolders: Function setContext() done in 56.094ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20230629T195455/exthost3/SAPSE.cicd-extension' changed, updating app folders in context. 
+AppFolders: Error executing setAppFoldersContext(): EACCES: permission denied, scandir '/home/lost+found'
+AppFolders: Function setContext() done in 3.412ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20230629T195455/exthost3/SAPSE.hana-database-explorer' changed, updating app folders in context. 
+AppFolders: Error executing setAppFoldersContext(): EACCES: permission denied, scandir '/home/lost+found'
+AppFolders: Function setContext() done in 9.690ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20230629T195455/exthost3/SAPSE.vscode-wing-cap-run' changed, updating app folders in context. 
+AppFolders: Error executing setAppFoldersContext(): EACCES: permission denied, scandir '/home/lost+found'
+AppFolders: Function setContext() done in 2.056ms

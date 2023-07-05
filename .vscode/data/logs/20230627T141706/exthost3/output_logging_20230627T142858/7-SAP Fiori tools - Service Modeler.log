@@ -202,3 +202,18 @@
 	extensionWebappRoots: 0
 	libraryRoots: 0
 14:40:24 [INFO] - AppFolders: Function setContext() done in 86.175ms
+14:41:16 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/.git/index.lock'
+14:41:55 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/.git/index.lock'
+14:41:55 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/.git/index.lock'
+14:41:55 [INFO] - AppFolders: Directory 'file:///home/user/.git/logs' changed, updating app folders in context. 
+14:41:56 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+14:41:56 [INFO] - AppFolders: Function setContext() done in 57.512ms
