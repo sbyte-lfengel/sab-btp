@@ -1,0 +1,859 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   .config/configstore/update-notifier-npm.json
+#	modified:   .config/vscode-sqltools/runningInfo.json
+#	new file:   .git-credentials
+#	modified:   .gitconfig
+#	new file:   .hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-kxs5q/SQLDBC.shm
+#	new file:   .hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-kxs5q/SSFS_HDB.DAT
+#	renamed:    .vscode/data/logs/20230619T174736/remoteagent.log -> .hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-kxs5q/SSFS_HDB.LOC
+#	new file:   .hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-rf8j7/SQLDBC.shm
+#	new file:   .hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-rf8j7/SSFS_HDB.DAT
+#	renamed:    .vscode/data/logs/20230619T174736/remotenetwork.log -> .hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-rf8j7/SSFS_HDB.LOC
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-cds/cds-editor/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-cds/cds-editor/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-cds/cds-editor/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@workflow/form-editor-vscode/-/metadata/timestamp.json
+#	modified:   .vscode/data/CachedProfilesData/__default__profile__/extensions.builtin.cache
+#	modified:   .vscode/data/User/workspaceStorage/bcad1d/vscode.lock
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/10-SAP Fiori tools - Service Modeler.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/11-SQLTools.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/18-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/21-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/35-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/5-GitLens.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/6-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/7-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/8-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/9-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost1/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAP.vscode-wing-run-config/Run Configurations.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPOS.yeoman-ui/Application Wizard.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPOSS.code-snippet/Code Snippet.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPOSS.guided-development/Guided Development.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/1-app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/10-GitLens.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/12-vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/13-NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/14-sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/15-VSCode Tasks Panel.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/16-Run Configurations.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/17-vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/18-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/19-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/2-fs-usage-popup-vscode-extensions.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/20-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/21-vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/22-vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/23-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/24-UI5 Language Assistant.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/27-mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/28-Extensibility extension.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/29-vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/3-SQLTools.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/30-vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/31-SAP HANA Project Explorer.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/32-SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/33-MTA.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/34-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/35-SAP HANA Database Explorer.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/36-vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/37-Application Wizard.Templates.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/4-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/5-CDS.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/6-vscode-wing-cds-editor.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/7-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/8-Code Snippet.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/9-Git History.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost2/vscode.git/Git.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAP.mta-editor-vscode/mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAP.vscode-wing-run-config/Run Configurations.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPOS.yeoman-ui/Application Wizard.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPOSS.code-snippet/Code Snippet.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPOSS.guided-development/Guided Development.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/1-app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/10-sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/11-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/12-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/13-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/14-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/15-CDS.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/16-vscode-wing-cds-editor.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/17-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/18-vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/19-VSCode Tasks Panel.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/2-Code Snippet.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/20-Run Configurations.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/21-vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/22-vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/23-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/24-Extensibility extension.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/25-mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/26-vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/27-Application Wizard.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/28-UI5 Language Assistant.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/29-vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/3-fs-usage-popup-vscode-extensions.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/30-Guided Development.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/31-SAP HANA Project Explorer.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/32-MTA.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/33-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/34-SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/35-SAP HANA Database Explorer.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/36-vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/4-SQLTools.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/5-Git History.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/6-GitLens.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/7-SAP Fiori tools - Service Modeler.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/8-vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/output_logging_20230627T142858/9-NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230627T141706/exthost3/vscode.git/Git.log
+#	renamed:    .vscode/data/logs/20230619T174736/remoteptyhost.log -> .vscode/data/logs/20230706T123235/remoteagent.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAP.mta-editor-vscode/mta-editor-vscode.log -> .vscode/data/logs/20230706T123235/remotenetwork.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log -> .vscode/data/logs/20230706T123235/remoteptyhost.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost2/SAP.mta-editor-vscode/mta-editor-vscode.log -> .vscode/data/logs/20230706T180218/exthost1/SAP.mta-editor-vscode/mta-editor-vscode.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost2/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log -> .vscode/data/logs/20230706T180218/exthost1/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log -> .vscode/data/logs/20230706T180218/exthost1/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAP.vscode-wing-run-config/Run Configurations.log -> .vscode/data/logs/20230706T180218/exthost1/SAP.vscode-wing-run-config/Run Configurations.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log -> .vscode/data/logs/20230706T180218/exthost1/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPOS.yeoman-ui/Application Wizard.log -> .vscode/data/logs/20230706T180218/exthost1/SAPOS.yeoman-ui/Application Wizard.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPOSS.app-studio-toolkit/app-studio-toolkit.log -> .vscode/data/logs/20230706T180218/exthost1/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPOSS.code-snippet/Code Snippet.log -> .vscode/data/logs/20230706T180218/exthost1/SAPOSS.code-snippet/Code Snippet.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPOSS.guided-development/Guided Development.log -> .vscode/data/logs/20230706T180218/exthost1/SAPOSS.guided-development/Guided Development.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log -> .vscode/data/logs/20230706T180218/exthost1/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log -> .vscode/data/logs/20230706T180218/exthost1/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.hana-database-explorer/hana-database-explorer.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.hana-project-explorer/hana-project-explorer.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.vscode-mta-tools/vscode-mta-tools.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.vscode-node-version-check/sap-node-version-check.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost3/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log -> .vscode/data/logs/20230706T180218/exthost1/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/1-app-studio-toolkit.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/1-vscode-dependencies-validation.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/13-vscode-dependencies-validation.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/10-vscode-wing-java-run.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/14-NPM Dependency Upgrade Tool.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/11-vscode-wing-gerrit.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/22-UI5 Language Assistant.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/12-UI5 Language Assistant.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/15-sap-node-version-check.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/13-app-studio-toolkit.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/16-VSCode Tasks Panel.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/14-Code Snippet.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/17-Run Configurations.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/15-GitLens.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/19-CDS.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/16-Git History.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/2-Code Snippet.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/17-fs-usage-popup-vscode-extensions.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/11-SAP Fiori tools - Service Modeler.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/18-SAP Fiori tools - Service Modeler.log
+#	new file:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/19-SAP Fiori tools - Help.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/23-vscode-wing-gerrit.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/2-NPM Dependency Upgrade Tool.log
+#	new file:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/20-SAP Fiori tools - Application Modeler.log
+#	new file:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/21-SAP Fiori tools - Project Validation.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/24-vscode-wing-java-run.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/22-Cloud Foundry Tools.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/12-Extensions Install Agent.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/23-Extensions Install Agent.log
+#	new file:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/24-SQLTools.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/25-Application Wizard.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/25-Application Wizard.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost2/output_logging_20230627T142805/26-Guided Development.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/26-Guided Development.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/31-vscode-wing-storyboard.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/27-vscode-wing-storyboard.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/28-vscode-wing-cap-guided-development.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/28-vscode-wing-cap-guided-development.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/25-vscode-wing-welcome-screen.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/29-vscode-wing-welcome-screen.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/27-mta-editor-vscode.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/3-sap-node-version-check.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/29-Guided Development.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/30-mta-editor-vscode.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/26-Extensibility extension.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/31-Extensibility extension.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/32-SAP HANA Project Explorer.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/32-SAP HANA Project Explorer.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/33-SAP Continuous Integration and Delivery.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/33-SAP Continuous Integration and Delivery.log
+#	new file:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/34-ADP Visual Editor.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/3-fs-usage-popup-vscode-extensions.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/35-MTA.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/36-SAP HANA Database Explorer.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/36-SAP HANA Database Explorer.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/37-vscode-wing-cap-run.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/37-vscode-wing-cap-run.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/30-Application Wizard.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/4-VSCode Tasks Panel.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/34-MTA.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/5-Run Configurations.log
+#	new file:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/6-vscode-cds.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/4-Git History.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/7-CDS.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/output_logging_20230627T142636/20-vscode-wing-cds-editor.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/8-vscode-wing-cds-editor.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost2/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log -> .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/9-vscode-wing-expose-router-ports.log
+#	new file:   .vscode/data/logs/20230706T180218/exthost1/remoteexthost.log
+#	renamed:    .vscode/data/logs/20230627T141706/exthost1/vscode.git/Git.log -> .vscode/data/logs/20230706T180218/exthost1/vscode.git/Git.log
+#	renamed:    .vscode/data/logs/20230627T141706/remoteagent.log -> .vscode/data/logs/20230706T180218/remoteagent.log
+#	renamed:    .vscode/data/logs/20230627T141706/remotenetwork.log -> .vscode/data/logs/20230706T180218/remotenetwork.log
+#	renamed:    .vscode/data/logs/20230627T141706/remoteptyhost.log -> .vscode/data/logs/20230706T180218/remoteptyhost.log
+#	modified:   .webide/malware/state
+#	modified:   .webide/router/metrics.json
+#
+# Changes not staged for commit:
+#	modified:   .cf/config.json
+#	modified:   .config/configstore/update-notifier-npm.json
+#	modified:   .config/vscode-sqltools/runningInfo.json
+#	modified:   .local/share/vscode-sqltools/node_modules/.package-lock.json
+#	modified:   .local/share/vscode-sqltools/node_modules/semver/README.md
+#	modified:   .local/share/vscode-sqltools/node_modules/semver/classes/comparator.js
+#	modified:   .local/share/vscode-sqltools/node_modules/semver/classes/range.js
+#	modified:   .local/share/vscode-sqltools/node_modules/semver/classes/semver.js
+#	modified:   .local/share/vscode-sqltools/node_modules/semver/functions/coerce.js
+#	modified:   .local/share/vscode-sqltools/node_modules/semver/functions/diff.js
+#	modified:   .local/share/vscode-sqltools/node_modules/semver/internal/constants.js
+#	modified:   .local/share/vscode-sqltools/node_modules/semver/internal/re.js
+#	modified:   .local/share/vscode-sqltools/node_modules/semver/package.json
+#	modified:   .local/share/vscode-sqltools/package-lock.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-annotation-modeler-extension/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-annotation-modeler-extension/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-annotation-modeler-extension/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-application-modeler-extension/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-application-modeler-extension/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-application-modeler-extension/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-help-extension/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-help-extension/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-help-extension/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-service-modeler-extension/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-service-modeler-extension/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-service-modeler-extension/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-bas-extensibility/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-mta-editor/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-w5g/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-wing-service-center/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-wing-service-center/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-wing-service-center/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-debug/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-debug/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-debug/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-dependency/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-dependency/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-dependency/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-run/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-run/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-run/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-test/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-test/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-test/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-redhat-java/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-redhat-java/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-redhat-java/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-spring-boot-tools/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-spring-boot-tools/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-spring-boot-tools/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@ext-dptvsc-npm-vscode/lcap-task-contrib/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@ext-dptvsc-npm-vscode/lcap-task-contrib/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@ext-dptvsc-npm-vscode/lcap-task-contrib/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-cds/cds-editor/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-cds/cds-editor/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-cds/cds-editor/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/csdl-modeler/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/guided-development/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/run-config/-/metadata/snapshot.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/run-config/-/metadata/targets.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/run-config/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/simplified-git/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@workflow/process-template-editor-vscode/-/metadata/timestamp.json
+#	modified:   .notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@workflow/workflow-editor-vscode/-/metadata/timestamp.json
+#	modified:   .vscode/data/CachedProfilesData/__default__profile__/extensions.builtin.cache
+#	modified:   .vscode/data/CachedProfilesData/__default__profile__/extensions.user.cache
+#	modified:   .vscode/data/User/History/4c7b8b24/entries.json
+#	modified:   .vscode/data/User/History/70bd51f8/entries.json
+#	modified:   .vscode/data/User/workspaceStorage/bcad1d/vscode.lock
+#	modified:   .vscode/data/languagepacks.json
+#	deleted:    .vscode/data/logs/20230627T173955/remoteagent.log
+#	deleted:    .vscode/data/logs/20230627T173955/remotenetwork.log
+#	deleted:    .vscode/data/logs/20230627T173955/remoteptyhost.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAP.mta-editor-vscode/mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAP.vscode-wing-run-config/Run Configurations.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPOS.yeoman-ui/Application Wizard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPOSS.code-snippet/Code Snippet.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPOSS.guided-development/Guided Development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/1-app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/10-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/11-Extensions Install Agent.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/12-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/13-CDS.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/14-vscode-wing-cds-editor.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/15-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/16-vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/17-vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/18-NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/19-sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/2-Code Snippet.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/20-VSCode Tasks Panel.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/21-Run Configurations.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/22-vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/23-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/24-vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/25-mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/26-vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/27-Application Wizard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/28-UI5 Language Assistant.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/29-Extensibility extension.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/3-fs-usage-popup-vscode-extensions.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/30-Guided Development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/31-vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/32-SAP HANA Project Explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/33-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/34-SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/35-MTA.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/36-vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/37-SAP HANA Database Explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/4-Git History.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/5-SQLTools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/6-GitLens.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/7-SAP Fiori tools - Service Modeler.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/8-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/output_logging_20230629T195614/9-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost1/vscode.git/Git.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAP.mta-editor-vscode/mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAP.vscode-wing-run-config/Run Configurations.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPOS.yeoman-ui/Application Wizard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPOSS.code-snippet/Code Snippet.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPOSS.guided-development/Guided Development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/1-fs-usage-popup-vscode-extensions.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/10-Git History.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/11-GitLens.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/12-SAP Fiori tools - Service Modeler.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/13-vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/14-NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/15-sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/16-VSCode Tasks Panel.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/17-Run Configurations.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/18-vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/19-vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/2-app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/20-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/21-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/22-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/23-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/24-Extensibility extension.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/25-UI5 Language Assistant.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/26-Application Wizard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/27-Guided Development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/28-mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/29-vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/3-Code Snippet.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/30-vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/31-SAP HANA Project Explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/32-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/33-MTA.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/34-SAP HANA Database Explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/35-SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/36-vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/4-SQLTools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/5-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/6-CDS.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/7-vscode-wing-cds-editor.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/8-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/output_logging_20230629T195638/9-vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost2/vscode.git/Git.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAP.mta-editor-vscode/mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAP.vscode-wing-run-config/Run Configurations.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPOS.yeoman-ui/Application Wizard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPOSS.code-snippet/Code Snippet.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPOSS.guided-development/Guided Development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/1-app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/10-SQLTools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/11-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/12-CDS.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/13-vscode-wing-cds-editor.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/14-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/15-vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/16-vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/17-NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/18-sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/19-VSCode Tasks Panel.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/2-fs-usage-popup-vscode-extensions.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/20-Run Configurations.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/21-vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/22-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/23-vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/24-UI5 Language Assistant.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/25-Application Wizard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/26-Guided Development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/27-vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/28-mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/29-Extensibility extension.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/3-Code Snippet.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/30-vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/31-SAP HANA Project Explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/32-MTA.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/33-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/34-SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/35-SAP HANA Database Explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/36-vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/4-Git History.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/5-GitLens.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/6-SAP Fiori tools - Service Modeler.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/7-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/8-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/output_logging_20230629T195907/9-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost3/vscode.git/Git.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAP.mta-editor-vscode/mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAP.vscode-wing-run-config/Run Configurations.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPOS.yeoman-ui/Application Wizard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPOSS.code-snippet/Code Snippet.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPOSS.guided-development/Guided Development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/1-SQLTools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/10-Run Configurations.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/11-vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/12-vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/13-vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/14-fs-usage-popup-vscode-extensions.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/15-app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/16-UI5 Language Assistant.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/17-Code Snippet.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/18-Git History.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/19-GitLens.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/2-vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/20-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/21-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/22-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/23-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/24-SAP Fiori tools - Service Modeler.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/25-Application Wizard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/26-Guided Development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/27-vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/28-mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/29-Extensibility extension.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/3-NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/30-vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/31-SAP HANA Project Explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/32-MTA.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/33-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/34-SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/35-SAP HANA Database Explorer.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/36-vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/37-JSON Language Server.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/4-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/5-CDS.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/6-vscode-wing-cds-editor.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/7-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/8-sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/output_logging_20230629T200011/9-VSCode Tasks Panel.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230629T195455/exthost4/vscode.git/Git.log
+#	deleted:    .vscode/data/logs/20230629T195455/remoteagent.log
+#	deleted:    .vscode/data/logs/20230629T195455/remotenetwork.log
+#	deleted:    .vscode/data/logs/20230629T195455/remoteptyhost.log
+#	deleted:    .vscode/data/logs/20230630T135250/remoteagent.log
+#	deleted:    .vscode/data/logs/20230630T135250/remotenetwork.log
+#	deleted:    .vscode/data/logs/20230630T135250/remoteptyhost.log
+#	deleted:    .vscode/data/logs/20230630T170919/remoteagent.log
+#	deleted:    .vscode/data/logs/20230630T170919/remotenetwork.log
+#	deleted:    .vscode/data/logs/20230630T170919/remoteptyhost.log
+#	deleted:    .vscode/data/logs/20230703T143951/remoteagent.log
+#	deleted:    .vscode/data/logs/20230703T143951/remotenetwork.log
+#	deleted:    .vscode/data/logs/20230703T143951/remoteptyhost.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAP.mta-editor-vscode/mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAP.vscode-wing-run-config/Run Configurations.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPOS.yeoman-ui/Application Wizard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPOSS.code-snippet/Code Snippet.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPOSS.guided-development/Guided Development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/1-SQLTools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/10-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/11-vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/12-vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/13-NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/14-sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/15-VSCode Tasks Panel.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/16-vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/17-fs-usage-popup-vscode-extensions.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/18-app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/19-Run Configurations.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/2-GitLens.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/20-UI5 Language Assistant.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/21-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/22-CDS.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/23-Code Snippet.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/24-Git History.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/25-SAP HANA Project Explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/26-Application Wizard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/27-vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/28-Guided Development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/29-vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/3-SAP Fiori tools - Service Modeler.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/30-mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/31-Extensibility extension.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/32-vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/33-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/34-MTA.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/35-SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/36-SAP HANA Database Explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/37-vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/38-JSON Language Server.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/4-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/5-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/6-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/7-Extensions Install Agent.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/8-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/output_logging_20230703T170649/9-vscode-wing-cds-editor.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost1/vscode.git/Git.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAP.mta-editor-vscode/mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAP.vscode-wing-run-config/Run Configurations.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPOS.yeoman-ui/Application Wizard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPOSS.code-snippet/Code Snippet.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPOSS.guided-development/Guided Development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/1-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/10-sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/11-VSCode Tasks Panel.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/12-vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/13-Guided Development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/14-UI5 Language Assistant.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/15-Git History.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/16-fs-usage-popup-vscode-extensions.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/17-GitLens.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/18-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/19-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/2-CDS.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/20-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/21-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/22-SAP Fiori tools - Service Modeler.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/23-SQLTools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/24-vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/25-Application Wizard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/26-vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/27-vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/28-vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/29-SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/3-Run Configurations.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/30-mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/31-Extensibility extension.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/32-SAP HANA Project Explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/33-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/34-MTA.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/35-SAP HANA Database Explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/36-vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/37-HANA SQLAnalyzer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/4-Code Snippet.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/5-app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/6-vscode-wing-cds-editor.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/7-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/8-vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/output_logging_20230703T185029/9-NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost2/vscode.git/Git.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAP.mta-editor-vscode/mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAP.vscode-wing-run-config/Run Configurations.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPOS.yeoman-ui/Application Wizard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPOSS.code-snippet/Code Snippet.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPOSS.guided-development/Guided Development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/1-SQLTools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/10-VSCode Tasks Panel.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/11-Run Configurations.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/12-vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/13-app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/14-Code Snippet.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/15-UI5 Language Assistant.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/16-fs-usage-popup-vscode-extensions.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/17-Git History.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/18-GitLens.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/19-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/2-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/20-SAP Fiori tools - Service Modeler.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/21-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/22-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/23-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/24-Application Wizard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/25-vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/26-vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/27-vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/28-Guided Development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/29-mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/3-CDS.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/30-Extensibility extension.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/31-SAP HANA Project Explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/32-MTA.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/33-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/34-SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/35-vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/36-SAP HANA Database Explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/37-HANA SQLAnalyzer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/38-Language Server for SAP HANA SQLScript.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/4-vscode-wing-cds-editor.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/5-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/6-vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/7-vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/8-NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/output_logging_20230703T185925/9-sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost3/vscode.git/Git.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAP.mta-editor-vscode/mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAP.vscode-wing-cf-tools/Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAP.vscode-wing-gerrit/vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAP.vscode-wing-run-config/Run Configurations.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAP.vscode-wing-welcome-screen/vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPOS.yeoman-ui/Application Wizard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPOSS.app-studio-toolkit/app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPOSS.code-snippet/Code Snippet.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPOSS.guided-development/Guided Development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPOSS.vscode-dependencies-validation/vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPOSS.vscode-deps-upgrade-tool/NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.cicd-extension/SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.fs-usage-popup-vscode-extensions/fs-usage-popup-vscode-extension.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.hana-database-explorer/hana-database-explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.hana-project-explorer/hana-project-explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.vscode-mta-tools/vscode-mta-tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.vscode-node-version-check/sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.vscode-tasks-explorer-tasks-panel/vscode-tasks-explorer-tasks-panel.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.vscode-wing-cap-guided-development/vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.vscode-wing-cap-run/vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.vscode-wing-expose-router-ports/vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.vscode-wing-java-run/vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/SAPSE.vscode-wing-storyboard/vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/1-vscode-wing-expose-router-ports.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/10-GitLens.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/11-Cloud Foundry Tools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/12-SAP Fiori tools - Service Modeler.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/13-SAP Fiori tools - Help.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/14-SAP Fiori tools - Application Modeler.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/15-SAP Fiori tools - Project Validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/16-SQLTools.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/17-Git History.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/18-NPM Dependency Upgrade Tool.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/19-vscode-dependencies-validation.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/2-vscode-wing-java-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/20-VSCode Tasks Panel.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/21-sap-node-version-check.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/22-vscode-wing-cds-editor.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/23-vscode-wing-cap-guided-development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/24-Application Wizard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/25-UI5 Language Assistant.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/26-Guided Development.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/27-vscode-wing-welcome-screen.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/28-vscode-wing-storyboard.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/29-Extensibility extension.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/3-vscode-wing-gerrit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/30-mta-editor-vscode.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/31-SAP HANA Project Explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/32-Language Server for SAP HANA SQLScript.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/33-ADP Visual Editor.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/34-MTA.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/35-SAP Continuous Integration and Delivery.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/36-SAP HANA Database Explorer.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/37-vscode-wing-cap-run.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/38-JSON Language Server.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/4-app-studio-toolkit.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/5-Code Snippet.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/6-vscode-cds.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/7-CDS.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/8-Run Configurations.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/output_logging_20230703T193802/9-fs-usage-popup-vscode-extensions.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/remoteexthost.log
+#	deleted:    .vscode/data/logs/20230703T170618/exthost4/vscode.git/Git.log
+#	deleted:    .vscode/data/logs/20230703T170618/remoteagent.log
+#	deleted:    .vscode/data/logs/20230703T170618/remotenetwork.log
+#	deleted:    .vscode/data/logs/20230703T170618/remoteptyhost.log
+#	modified:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/18-SAP Fiori tools - Service Modeler.log
+#	modified:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/20-SAP Fiori tools - Application Modeler.log
+#	modified:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/24-SQLTools.log
+#	modified:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/34-ADP Visual Editor.log
+#	modified:   .vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/6-vscode-cds.log
+#	modified:   .vscode/data/logs/20230706T180218/exthost1/remoteexthost.log
+#	modified:   .vscode/extensions/extensions.json
+#	modified:   .webide/malware/state
+#	modified:   .webide/router/metrics.json
+#	modified:   projects/HC_OFFICE_SUPLLIES/db/schema.cds
+#	deleted:    projects/HC_OFFICE_SUPLLIES/db/src/data/hc450.officesupplies-Produto.csv
+#	deleted:    projects/HC_OFFICE_SUPLLIES/db/src/data/hc450.officesupplies-Suppliers.csv
+#	deleted:    projects/HC_OFFICE_SUPLLIES/db/src/data/sap.common-Currencies.csv
+#	deleted:    projects/HC_OFFICE_SUPLLIES/db/src/data/sap.common.Currencies_texts.csv Note Note
+#	deleted:    projects/HC_OFFICE_SUPLLIES/db/src/get_supplier_info.hdbprocedure
+#	modified:   projects/HC_OFFICE_SUPLLIES/package-lock.json
+#	modified:   projects/HC_OFFICE_SUPLLIES/package.json
+#	deleted:    projects/HC_OFFICE_SUPLLIES/srv/cat-service.cds
+#
+# Untracked files:
+#	.hdb/workspaces-ws-hgx9c-deployment-567fb6bc6-7qvw9/
+#	.hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-4q25f/
+#	.hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-5s6px/
+#	.hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-gh66v/
+#	.hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-rt7vj/
+#	.hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-tcsmm/
+#	.hdb/workspaces-ws-hgx9c-deployment-7c7cf7f99c-vxswd/
+#	.notary/tuf/common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-wing-storyboard/
+#	.vscode/data/CachedExtensionVSIXs/
+#	.vscode/data/User/History/-2064d6be/
+#	.vscode/data/User/History/4c7b8b24/TRFo.cds
+#	.vscode/data/User/History/4c7b8b24/fj0Z.cds
+#	.vscode/data/User/History/53deb603/
+#	.vscode/data/User/History/70bd51f8/0Zgc.cds
+#	.vscode/data/User/History/70bd51f8/4lY8.cds
+#	.vscode/data/User/History/70bd51f8/Xzgt.cds
+#	.vscode/data/User/History/70bd51f8/wKQA.cds
+#	.vscode/data/User/History/70bd51f8/wLea.cds
+#	.vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/38-JSON Language Server.log
+#	.vscode/data/logs/20230706T180218/exthost1/output_logging_20230706T183411/39-TypeScript.log
+#	.vscode/data/logs/20230707T135126/
+#	.vscode/data/logs/20230707T195449/
+#	.vscode/data/logs/20230710T184806/
+#	.vscode/data/logs/20230710T205806/
+#	.vscode/data/logs/20230712T193317/
+#	.vscode/data/logs/20230717T193147/
+#	.vscode/extensions/ms-ceintl.vscode-language-pack-pt-br-1.78.0-universal/
+#	projects/HC_OFFICE_SUPLLIES/db/data/
+#	projects/HC_OFFICE_SUPLLIES/db/src/cat-services.cds
+#

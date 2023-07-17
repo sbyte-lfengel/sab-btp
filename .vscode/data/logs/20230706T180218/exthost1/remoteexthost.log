@@ -52,3 +52,30 @@
 2023-07-06 18:34:24.037 [error] No bundle location found for extension vscode.merge-conflict
 2023-07-06 18:34:24.754 [error] No bundle location found for extension SAPSE.vscode-wing-cap-run
 2023-07-06 18:34:24.967 [error] No bundle location found for extension vscode.emmet
+2023-07-06 18:42:42.762 [error] No bundle location found for extension vscode.configuration-editing
+2023-07-06 18:42:42.762 [error] No bundle location found for extension vscode.extension-editing
+2023-07-06 18:42:42.794 [error] No bundle location found for extension vscode.json-language-features
+2023-07-06 18:44:38.131 [error] No bundle location found for extension SAPSE.hana-sqlscript-lsp
+2023-07-06 18:44:38.131 [error] No bundle location found for extension vscode.typescript-language-features
+2023-07-06 20:00:59.879 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/db.sqlite-journal'
+2023-07-06 20:01:00.022 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/db.sqlite-journal'
+2023-07-06 20:01:08.796 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:02:59.840 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:03:25.853 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:04:08.336 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:05:30.587 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:06:33.384 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:09:52.941 [error] No bundle location found for extension vscode.markdown-language-features
+2023-07-06 20:10:38.045 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:10:46.121 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:13:17.530 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:13:21.583 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:14:44.303 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/db/src/data/sap.common.Currencies_texts.csv Note Note'
+2023-07-06 20:15:03.265 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:15:06.822 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:24:05.176 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/db/src/get_supplier_info.hdbprocedure'
+2023-07-06 20:24:23.398 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:24:30.262 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:44:53.321 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:44:59.529 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-06 20:46:45.218 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'

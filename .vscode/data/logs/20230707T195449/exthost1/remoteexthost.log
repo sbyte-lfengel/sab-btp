@@ -1,0 +1,67 @@
+2023-07-07 20:10:55.547 [error] No bundle location found for extension vscode.emmet
+2023-07-07 20:10:55.547 [error] No bundle location found for extension SAPSE.vscode-cds
+2023-07-07 20:10:55.547 [error] No bundle location found for extension SAP.vscode-wing-cf-tools
+2023-07-07 20:10:55.547 [error] No bundle location found for extension SAPOSS.code-snippet
+2023-07-07 20:10:55.547 [error] No bundle location found for extension SAP.vscode-wing-run-config
+2023-07-07 20:10:55.547 [error] No bundle location found for extension SAPOSS.app-studio-toolkit
+2023-07-07 20:10:56.603 [error] No bundle location found for extension vscode.git-base
+2023-07-07 20:10:56.603 [error] No bundle location found for extension SAPSE.sap-ux-application-modeler-extension
+2023-07-07 20:10:56.603 [error] No bundle location found for extension SAPSE.sap-ux-service-modeler-extension
+2023-07-07 20:10:56.603 [error] No bundle location found for extension SAPOSS.vscode-dependencies-validation
+2023-07-07 20:10:56.603 [error] No bundle location found for extension SAPOSS.vscode-deps-upgrade-tool
+2023-07-07 20:10:56.603 [error] No bundle location found for extension SAPSE.vscode-node-version-check
+2023-07-07 20:10:56.603 [error] No bundle location found for extension SAPSE.vscode-tasks-explorer-tasks-panel
+2023-07-07 20:10:56.603 [error] No bundle location found for extension SAPOSS.vscode-ui5-language-assistant
+2023-07-07 20:10:56.604 [error] No bundle location found for extension SAPSE.vscode-wing-cds-editor-bas
+2023-07-07 20:10:56.604 [error] No bundle location found for extension SAPSE.vscode-wing-expose-router-ports
+2023-07-07 20:10:56.604 [error] No bundle location found for extension SAP.vscode-wing-gerrit
+2023-07-07 20:10:56.604 [error] No bundle location found for extension SAPSE.vscode-wing-java-run
+2023-07-07 20:10:56.604 [error] No bundle location found for extension vscode.npm
+2023-07-07 20:11:00.578 [error] No bundle location found for extension SAPOSS.app-studio-toolkit-themes
+2023-07-07 20:11:00.578 [error] No bundle location found for extension donjayamanne.githistory
+2023-07-07 20:11:00.578 [error] No bundle location found for extension SAPSE.fs-usage-popup-vscode-extensions
+2023-07-07 20:11:00.578 [error] No bundle location found for extension SAPSE.sap-ux-help-extension
+2023-07-07 20:11:00.578 [error] No bundle location found for extension mtxr.sqltools
+2023-07-07 20:11:00.578 [error] No bundle location found for extension SAP.vscode-bas-extension
+2023-07-07 20:11:03.108 [error] No bundle location found for extension SAPSE.vscode-wing-cap-guided-development
+2023-07-07 20:11:03.108 [error] No bundle location found for extension SAP.vscode-wing-welcome-screen
+2023-07-07 20:11:03.904 [error] No bundle location found for extension SAPOS.yeoman-ui
+2023-07-07 20:11:03.904 [error] No bundle location found for extension SAPSE.lcap-task-contrib
+2023-07-07 20:11:03.904 [error] No bundle location found for extension SAPOSS.guided-development
+2023-07-07 20:11:03.904 [error] No bundle location found for extension SAPSE.vscode-wing-storyboard
+2023-07-07 20:11:03.904 [error] No bundle location found for extension SAP.vscode-watt-framework-extension
+2023-07-07 20:11:05.209 [error] No bundle location found for extension eamodio.gitlens
+2023-07-07 20:11:05.307 [error] No bundle location found for extension SAPSE.hana-project-explorer
+2023-07-07 20:11:06.087 [error] No bundle location found for extension vscode.git
+2023-07-07 20:11:06.750 [error] No bundle location found for extension mtxr.sqltools-driver-sqlite
+2023-07-07 20:11:06.949 [error] No bundle location found for extension SAPSE.cicd-extension
+2023-07-07 20:11:07.021 [error] No bundle location found for extension SAP.adp-ve-bas-ext
+2023-07-07 20:11:07.618 [error] No bundle location found for extension SAPSE.vscode-mta-tools
+2023-07-07 20:11:07.741 [error] No bundle location found for extension SAP.hana-runtime-tools
+2023-07-07 20:11:07.752 [error] No bundle location found for extension SAP.mta-editor-vscode
+2023-07-07 20:11:07.805 [error] No bundle location found for extension SAPSE.webide-hdi-base-feature-vscode
+2023-07-07 20:11:07.805 [error] No bundle location found for extension sap.process-template-editor-vscode
+2023-07-07 20:11:07.940 [error] No bundle location found for extension SAP.sap-bas-vscode-w5g
+2023-07-07 20:11:08.043 [error] No bundle location found for extension SAP.vscode-bas-extensibility
+2023-07-07 20:11:08.089 [error] No bundle location found for extension sap.workflow-editor-vscode
+2023-07-07 20:11:08.199 [error] No bundle location found for extension SAPSE.webide-hdi-feature-vscode
+2023-07-07 20:11:08.218 [error] No bundle location found for extension SAPSE.hana-database-explorer
+2023-07-07 20:11:08.218 [error] No bundle location found for extension vscode.debug-auto-launch
+2023-07-07 20:11:08.580 [error] No bundle location found for extension vscode.merge-conflict
+2023-07-07 20:11:08.612 [error] No bundle location found for extension SAPSE.vscode-wing-cap-run
+2023-07-07 20:11:09.150 [error] No bundle location found for extension SAP.hana-eim-sdi
+2023-07-07 20:11:09.185 [error] No bundle location found for extension sap.workflow-form-editor-vscode
+2023-07-07 20:24:17.498 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-07 20:33:44.041 [error] No bundle location found for extension vscode.json-language-features
+2023-07-07 20:33:44.041 [error] No bundle location found for extension vscode.extension-editing
+2023-07-07 20:33:44.126 [error] No bundle location found for extension vscode.configuration-editing
+2023-07-07 20:33:45.246 [error] No bundle location found for extension vscode.typescript-language-features
+2023-07-07 20:33:45.306 [error] No bundle location found for extension SAPSE.hana-sqlscript-lsp
+2023-07-07 20:38:01.330 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-07 20:39:48.815 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-07 20:40:47.857 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-07 20:41:53.893 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/db/src/data'
+2023-07-07 20:41:58.128 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-07 20:42:02.346 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-07 20:43:29.373 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'
+2023-07-07 20:43:33.291 [error] Error: ENOENT: no such file or directory, stat '/home/user/projects/HC_OFFICE_SUPLLIES/gen'

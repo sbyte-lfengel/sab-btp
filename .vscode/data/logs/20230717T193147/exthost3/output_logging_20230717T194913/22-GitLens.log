@@ -1,0 +1,2 @@
+[2023-07-17 20:02:13:221] [/home/user] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false blame --root --incremental -- projects/HC_OFFICE_SUPLLIES/srv • no such path 'projects/HC_OFFICE_SUPLLIES/srv' in HEAD • 31 ms
+[2023-07-17 20:02:38:623] [/home/user] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false blame --root --incremental -- projects/HC_OFFICE_SUPLLIES/srv • no such path 'projects/HC_OFFICE_SUPLLIES/srv' in HEAD • 22 ms

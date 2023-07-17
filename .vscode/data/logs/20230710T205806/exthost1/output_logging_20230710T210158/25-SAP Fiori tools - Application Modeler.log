@@ -1,0 +1,44 @@
+21:02:05 [INFO] - Running activation sequence for Fiori tools - Application Modeler
+21:02:05 [INFO] - Configurations: 'sap.ux.applicationModeler.showJsonSchemas': false; isTheia(): false; isAppStudio(): true
+21:02:05 [INFO] - AppFolders: setAppFoldersContext() is processing, leaving
+21:02:05 [INFO] - Register Fiori tools file system for configurations...
+21:02:05 [INFO] - ...Fiori tools file system registered in 0.516ms
+21:02:05 [INFO] - Register views for configurations...
+21:02:05 [INFO] - ...views for configurations registered in 0.755ms
+21:02:05 [INFO] - Register commands...
+21:02:05 [INFO] - ...commands registered in 3.265ms
+21:02:05 [INFO] - Register serializers...
+21:02:05 [INFO] - ...serializers registered in 0.312ms
+21:02:05 [INFO] - Activating sync module...
+21:02:05 [INFO] - Virtual file system ftfs initialized in 0.106ms
+21:02:05 [INFO] - Searching for projects in these workspace folders: 
+[ '/home/user/projects/HC_OFFICE_SUPLLIES' ]
+21:02:06 [INFO] - SAP UX projects found and added in 1536.049ms
+21:02:06 [INFO] - Start watching **/package.json
+21:02:06 [INFO] - package.json watched in 0.582ms
+21:02:06 [INFO] - Start watching for workspace folder changes
+21:02:06 [INFO] - Workspace folders watched in 0.404ms
+21:02:06 [INFO] - Configs watched in 0.129ms
+21:02:06 [INFO] - ...sync module activated in 1538.869ms
+21:02:06 [INFO] - Activating launch config integration
+21:02:06 [INFO] - Handler for Fiori launch configuration registered
+21:02:06 [INFO] - ...launch config integration activated in 0.759ms
+21:02:06 [INFO] - Activating migration module...
+21:02:06 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching for workspace folder changes'
+21:02:06 [INFO] - Workspace folders watched in 0.441ms
+21:02:06 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/package.json'
+21:02:06 [INFO] - package.json watched in 0.504ms
+21:02:06 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/pom.xml'
+21:02:06 [INFO] - pom.xml watched in 0.385ms
+21:02:06 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/neo-app.json'
+21:02:06 [INFO] - neo-app.json watched in 0.343ms
+21:02:06 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/manifest.json'
+21:02:06 [INFO] - manifest.json watched in 0.540ms
+21:02:07 [INFO] - ...migration module activated in 531.099ms
+21:02:07 [INFO] - activation sequence for Fiori tools - Application Modeler done in 2435.858ms
+21:05:12 [INFO] - An error occurred while processing changes of file '/home/user/projects/HC_OFFICE_SUPLLIES/package.json': SyntaxError: Unexpected token } in JSON at position 502

@@ -1,0 +1,67 @@
+13:54:12 [INFO] - Running activation sequence for Fiori tools - Application Modeler
+13:54:13 [INFO] - Configurations: 'sap.ux.applicationModeler.showJsonSchemas': false; isTheia(): false; isAppStudio(): true
+13:54:13 [INFO] - AppFolders: starting processing setAppFoldersContext()
+13:54:13 [INFO] - Register Fiori tools file system for configurations...
+13:54:13 [INFO] - ...Fiori tools file system registered in 0.795ms
+13:54:13 [INFO] - Register views for configurations...
+13:54:13 [INFO] - ...views for configurations registered in 0.886ms
+13:54:13 [INFO] - Register commands...
+13:54:13 [INFO] - ...commands registered in 4.047ms
+13:54:13 [INFO] - Register serializers...
+13:54:13 [INFO] - ...serializers registered in 0.416ms
+13:54:13 [INFO] - Activating sync module...
+13:54:13 [INFO] - Virtual file system ftfs initialized in 0.136ms
+13:54:13 [INFO] - Searching for projects in these workspace folders: 
+[ '/home/user/projects/HC_OFFICE_SUPLLIES' ]
+13:54:15 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+13:54:15 [INFO] - AppFolders: Function setContext() done in 2106.945ms
+13:54:15 [INFO] - SAP UX projects found and added in 2269.650ms
+13:54:15 [INFO] - Start watching **/package.json
+13:54:15 [INFO] - package.json watched in 0.916ms
+13:54:15 [INFO] - Start watching for workspace folder changes
+13:54:15 [INFO] - Workspace folders watched in 0.373ms
+13:54:15 [INFO] - Configs watched in 0.239ms
+13:54:15 [INFO] - ...sync module activated in 2273.560ms
+13:54:15 [INFO] - Activating launch config integration
+13:54:15 [INFO] - Handler for Fiori launch configuration registered
+13:54:15 [INFO] - ...launch config integration activated in 0.823ms
+13:54:15 [INFO] - Activating migration module...
+13:54:15 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching for workspace folder changes'
+13:54:15 [INFO] - Workspace folders watched in 0.473ms
+13:54:15 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/package.json'
+13:54:15 [INFO] - package.json watched in 0.526ms
+13:54:15 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/pom.xml'
+13:54:15 [INFO] - pom.xml watched in 0.419ms
+13:54:15 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/neo-app.json'
+13:54:15 [INFO] - neo-app.json watched in 0.410ms
+13:54:15 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/manifest.json'
+13:54:15 [INFO] - manifest.json watched in 0.748ms
+13:54:16 [INFO] - ...migration module activated in 1378.802ms
+13:54:16 [INFO] - activation sequence for Fiori tools - Application Modeler done in 3709.526ms
+14:28:45 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen'
+14:28:45 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+14:28:45 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+14:28:45 [INFO] - AppFolders: Function setContext() done in 6.205ms

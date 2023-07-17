@@ -41,3 +41,5 @@
 18:34:19 [INFO] - manifest.json watched in 0.675ms
 18:34:22 [INFO] - ...migration module activated in 2960.615ms
 18:34:22 [INFO] - activation sequence for Fiori tools - Application Modeler done in 3591.771ms
+20:10:15 [INFO] - An error occurred while processing changes of file '/home/user/projects/HC_OFFICE_SUPLLIES/package.json': SyntaxError: Unexpected token } in JSON at position 446
+20:12:40 [INFO] - An error occurred while processing changes of file '/home/user/projects/HC_OFFICE_SUPLLIES/package.json': SyntaxError: Unexpected token } in JSON at position 516
