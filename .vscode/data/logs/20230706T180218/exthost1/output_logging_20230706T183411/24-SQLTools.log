@@ -1,0 +1,76 @@
+[1688668459622] INFO  (ext): SQLTools is starting
+[1688668459631] INFO  (ext): initializing language client...
+[1688668459633] INFO  (ext): Registering client for languages [{"scheme":"sqltools"},{"language":"sql","scheme":"untitled"},{"language":"sql","scheme":"file"},{"language":"sql","scheme":"sqltools"}]
+    ns: "lc"
+[1688668459642] INFO  (ext): loading plugins...
+[1688668459642] INFO  (ext): registering Formatter Plugin.
+    plugin: {
+      "name": "Formatter Plugin"
+    }
+[1688668459643] INFO  (ext): registering Connection Manager Plugin.
+    plugin: {
+      "name": "Connection Manager Plugin"
+    }
+[1688668459643] INFO  (ext): registering CodeLens Plugin.
+    plugin: {
+      "name": "CodeLens Plugin",
+      "registeredLanguages": []
+    }
+[1688668459645] INFO  (ext): registering Dependency Manager Plugin.
+    plugin: {
+      "name": "Dependency Manager Plugin",
+      "installingDrivers": []
+    }
+[1688668459648] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1688668459648] INFO  (ext): registering History Manager Plugin.
+    plugin: {
+      "name": "History Manager Plugin"
+    }
+[1688668459649] INFO  (ext): registering Bookmarks Manager Plugin.
+    plugin: {
+      "name": "Bookmarks Manager Plugin"
+    }
+[1688668459651] INFO  (ext): SQLTools activation completed. 28.430342 ms
+[1688668459651] INFO  (ext): Formatter Plugin registered!
+[1688668459652] INFO  (ext): CodeLens Plugin registered!
+[1688668459652] INFO  (ext): Dependency Manager Plugin registered!
+[1688668459652] INFO  (ext): Connection Manager Plugin registered!
+[1688668459652] INFO  (ext): History Manager Plugin registered!
+[1688668459652] INFO  (ext): Bookmarks Manager Plugin registered!
+[1688668459838] INFO  (ls): SQLTools Server started!
+===============================
+Using node runtime?: yes
+ExecPath: /opt/nodejs/node-v16.19.1-linux-x64/bin/node v16.19.1
+===============================
+[1688668459843] INFO  (ls): User defined env vars
+===============================
+{"PATH":"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/user/.node_modules_global/bin"}
+===============================:
+[1688668460744] INFO  (ext): LanguageClient ready
+    ns: "lc"
+[1688668460747] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1688668460747] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1688668460742] INFO  (ls): Initialized with node version:v16.19.1
+[1688668461744] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1688668462999] INFO  (ext): registering SQLite Plugin (driver).
+    plugin: {
+      "extensionId": "mtxr.sqltools-driver-sqlite",
+      "name": "SQLite Plugin",
+      "type": "driver"
+    }
+[1688668463000] INFO  (ls): REQUEST RECEIVED => ls/RegisterPlugin
+[1688668463001] INFO  (ls): request to register plugin: "/extbin/local/openvscode-server/extensions/sqltools-driver-sqlite-0.4.0/out/ls/plugin.js"
+[1688668463038] INFO  (ls): Driver sqlite registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1688668463040] INFO  (ext): SQLite Plugin (driver) registered!
+[1688668463912] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1688668464394] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1688668464395] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1688668492677] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
