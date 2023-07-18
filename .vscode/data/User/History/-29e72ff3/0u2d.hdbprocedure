@@ -1,0 +1,5 @@
+procedure "get_supplier_info" (out result "HC450_OFFICESUPPLIES_SUPPLIERS")
+    LANGUAGE SQLSCRIPT
+    SQL SECURITY INFOKER
+    READS SQL DATA AS
+BEGIN

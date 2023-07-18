@@ -1,0 +1,6 @@
+procedure "get_supplier_info" (out result "hc450_officesupplies_suppliers")
+    LANGUAGE SQLSCRIPT
+    SQL SECURITY INFOKER
+    READS SQL DATA AS
+BEGIN
+TAB_EXC_US = SELECT * from "hc450_"

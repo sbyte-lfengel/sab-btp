@@ -1,0 +1,1 @@
+procedure "get_supplier_info" (out result "HC")

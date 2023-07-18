@@ -52,3 +52,5 @@
 2023-07-17 20:16:28.010 [error] No bundle location found for extension vscode.debug-auto-launch
 2023-07-17 20:16:28.010 [error] No bundle location found for extension vscode.merge-conflict
 2023-07-17 20:16:28.010 [error] No bundle location found for extension SAPSE.hana-database-explorer
+2023-07-17 20:18:34.593 [error] No bundle location found for extension vscode.extension-editing
+2023-07-17 20:18:34.613 [error] No bundle location found for extension vscode.json-language-features

@@ -1,0 +1,345 @@
+17:00:16 [INFO] - AppFolders: starting processing setAppFoldersContext()
+17:00:17 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:00:17 [INFO] - AppFolders: Function setContext() done in 519.438ms
+17:18:08 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen'
+17:18:08 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:18:08 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:18:08 [INFO] - AppFolders: Function setContext() done in 5.283ms
+17:19:12 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen'
+17:19:13 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen/srv/srv/_i18n' changed, updating app folders in context. 
+17:19:13 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:19:13 [INFO] - AppFolders: Function setContext() done in 8.310ms
+17:20:22 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:20:22 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:20:22 [INFO] - AppFolders: Function setContext() done in 5.013ms
+17:20:23 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:20:23 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:20:23 [INFO] - AppFolders: Function setContext() done in 2.701ms
+17:21:16 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen'
+17:21:17 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:21:17 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:21:17 [INFO] - AppFolders: Function setContext() done in 3.247ms
+17:22:22 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:22:22 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:22:22 [INFO] - AppFolders: Function setContext() done in 2.289ms
+17:22:22 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:22:22 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:22:22 [INFO] - AppFolders: Function setContext() done in 2.522ms
+17:22:28 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen'
+17:22:28 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:22:28 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:22:28 [INFO] - AppFolders: Function setContext() done in 3.866ms
+17:23:58 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:23:58 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:23:58 [INFO] - AppFolders: Function setContext() done in 2.973ms
+17:23:58 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:23:58 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:23:58 [INFO] - AppFolders: Function setContext() done in 2.284ms
+17:24:04 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen'
+17:24:05 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:24:05 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:24:05 [INFO] - AppFolders: Function setContext() done in 4.689ms
+17:26:24 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:26:24 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:26:24 [INFO] - AppFolders: Function setContext() done in 5.334ms
+17:26:24 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:26:24 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:26:24 [INFO] - AppFolders: Function setContext() done in 2.146ms
+17:26:28 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen'
+17:26:29 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:26:29 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:26:29 [INFO] - AppFolders: Function setContext() done in 4.108ms
+17:29:19 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen'
+17:29:20 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:29:20 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:29:20 [INFO] - AppFolders: Function setContext() done in 5.976ms
+17:30:22 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:30:22 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:30:22 [INFO] - AppFolders: Function setContext() done in 3.772ms
+17:30:22 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen/srv/srv/_i18n' changed, updating app folders in context. 
+17:30:22 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:30:22 [INFO] - AppFolders: Function setContext() done in 5.473ms
+17:30:29 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen'
+17:30:29 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:30:29 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:30:29 [INFO] - AppFolders: Function setContext() done in 3.104ms
+17:32:52 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:32:52 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:32:52 [INFO] - AppFolders: Function setContext() done in 2.314ms
+17:32:52 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:32:52 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:32:52 [INFO] - AppFolders: Function setContext() done in 2.152ms
+17:32:55 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:32:55 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:32:55 [INFO] - AppFolders: Function setContext() done in 3.804ms
+17:32:55 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:32:55 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:32:55 [INFO] - AppFolders: Function setContext() done in 2.777ms
+17:32:57 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen'
+17:32:58 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:32:58 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:32:58 [INFO] - AppFolders: Function setContext() done in 2.991ms
+17:35:56 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:35:56 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:35:56 [INFO] - AppFolders: Function setContext() done in 2.252ms
+17:35:56 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:35:56 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:35:56 [INFO] - AppFolders: Function setContext() done in 11.502ms
+17:36:00 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+17:36:00 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:36:00 [INFO] - AppFolders: Function setContext() done in 3.051ms
+17:36:01 [INFO] - AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen/db/src' changed, updating app folders in context. 
+17:36:01 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+17:36:01 [INFO] - AppFolders: Function setContext() done in 6.406ms

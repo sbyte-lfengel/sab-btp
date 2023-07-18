@@ -72,3 +72,7 @@ ExecPath: /opt/nodejs/node-v16.19.1-linux-x64/bin/node v16.19.1
 [1689624987085] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
 [1689624987086] INFO  (ext): Connection explorer changed. Will be updated.
     ns: "conn-man:explorer"
+[1689625113302] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1689625148085] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
