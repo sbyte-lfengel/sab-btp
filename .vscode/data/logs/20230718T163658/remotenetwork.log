@@ -1,0 +1,2 @@
+2023-07-18 19:04:20.881 [error] node #18: https://open-vsx.org/vscode/asset/MS-CEINTL/vscode-language-pack-pt-BR/1.80.0/Microsoft.VisualStudio.Code.Manifest?targetPlatform=universal - error GET Client network socket disconnected before secure TLS connection was established
+2023-07-18 19:04:31.482 [error] node #21: https://open-vsx.org/vscode/asset/MS-CEINTL/vscode-language-pack-pt-BR/1.78.0/Microsoft.VisualStudio.Code.Manifest?targetPlatform=universal - error GET Client network socket disconnected before secure TLS connection was established

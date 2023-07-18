@@ -1,0 +1,101 @@
+2023-07-18 19:00:10.191 [error] No bundle location found for extension SAPOSS.vscode-deps-upgrade-tool
+2023-07-18 19:00:10.191 [error] No bundle location found for extension SAPSE.vscode-node-version-check
+2023-07-18 19:00:10.315 [error] No bundle location found for extension SAPSE.vscode-tasks-explorer-tasks-panel
+2023-07-18 19:00:10.315 [error] No bundle location found for extension SAPOSS.vscode-ui5-language-assistant
+2023-07-18 19:00:10.315 [error] No bundle location found for extension SAP.vscode-wing-run-config
+2023-07-18 19:00:10.315 [error] No bundle location found for extension SAPSE.vscode-cds
+2023-07-18 19:00:10.315 [error] No bundle location found for extension SAPSE.vscode-wing-cds-editor-bas
+2023-07-18 19:00:10.315 [error] No bundle location found for extension SAPSE.vscode-wing-expose-router-ports
+2023-07-18 19:00:10.315 [error] No bundle location found for extension SAP.vscode-wing-gerrit
+2023-07-18 19:00:10.315 [error] No bundle location found for extension SAPSE.vscode-wing-java-run
+2023-07-18 19:00:11.902 [error] No bundle location found for extension SAPOSS.app-studio-toolkit-themes
+2023-07-18 19:00:11.902 [error] No bundle location found for extension SAP.vscode-watt-framework-extension
+2023-07-18 19:00:12.020 [error] No bundle location found for extension donjayamanne.githistory
+2023-07-18 19:00:12.075 [error] No bundle location found for extension SAPOSS.app-studio-toolkit
+2023-07-18 19:00:12.075 [error] No bundle location found for extension vscode.git-base
+2023-07-18 19:00:12.337 [error] No bundle location found for extension SAPSE.fs-usage-popup-vscode-extensions
+2023-07-18 19:00:12.449 [error] No bundle location found for extension SAPOSS.code-snippet
+2023-07-18 19:00:12.518 [error] No bundle location found for extension SAP.vscode-wing-cf-tools
+2023-07-18 19:00:12.596 [error] No bundle location found for extension eamodio.gitlens
+2023-07-18 19:00:12.646 [error] No bundle location found for extension SAPSE.sap-ux-application-modeler-extension
+2023-07-18 19:00:13.728 [error] No bundle location found for extension SAPSE.sap-ux-help-extension
+2023-07-18 19:00:14.701 [error] No bundle location found for extension mtxr.sqltools
+2023-07-18 19:00:14.804 [error] No bundle location found for extension SAP.vscode-bas-extension
+2023-07-18 19:00:15.062 [error] No bundle location found for extension SAPOSS.vscode-dependencies-validation
+2023-07-18 19:00:15.184 [error] No bundle location found for extension vscode.npm
+2023-07-18 19:00:15.250 [error] No bundle location found for extension SAP.hana-runtime-tools
+2023-07-18 19:00:15.262 [error] No bundle location found for extension sap.process-template-editor-vscode
+2023-07-18 19:00:15.334 [error] No bundle location found for extension SAP.sap-bas-vscode-w5g
+2023-07-18 19:00:15.334 [error] No bundle location found for extension SAP.vscode-bas-extensibility
+2023-07-18 19:00:15.334 [error] No bundle location found for extension sap.workflow-editor-vscode
+2023-07-18 19:00:15.334 [error] No bundle location found for extension SAPSE.webide-hdi-base-feature-vscode
+2023-07-18 19:00:15.437 [error] No bundle location found for extension SAPOS.yeoman-ui
+2023-07-18 19:00:16.138 [error] No bundle location found for extension SAPSE.lcap-task-contrib
+2023-07-18 19:00:16.163 [error] No bundle location found for extension SAPOSS.guided-development
+2023-07-18 19:00:16.208 [error] No bundle location found for extension vscode.git
+2023-07-18 19:00:16.208 [error] No bundle location found for extension SAP.vscode-wing-welcome-screen
+2023-07-18 19:00:16.208 [error] No bundle location found for extension SAPSE.vscode-wing-storyboard
+2023-07-18 19:00:16.523 [error] No bundle location found for extension SAPSE.webide-hdi-feature-vscode
+2023-07-18 19:00:16.587 [error] No bundle location found for extension SAPSE.vscode-bas-fiori-tools
+2023-07-18 19:00:16.690 [error] No bundle location found for extension SAPSE.vscode-wing-cap-guided-development
+2023-07-18 19:00:17.198 [error] No bundle location found for extension SAPSE.hana-project-explorer
+2023-07-18 19:00:17.595 [error] No bundle location found for extension mtxr.sqltools-driver-sqlite
+2023-07-18 19:00:17.645 [error] No bundle location found for extension SAP.hana-eim-sdi
+2023-07-18 19:00:17.649 [error] No bundle location found for extension sap.workflow-form-editor-vscode
+2023-07-18 19:00:17.663 [error] No bundle location found for extension SAP.adp-ve-bas-ext
+2023-07-18 19:00:18.066 [error] No bundle location found for extension SAPSE.vscode-mta-tools
+2023-07-18 19:00:18.161 [error] No bundle location found for extension SAPSE.cicd-extension
+2023-07-18 19:00:18.965 [error] No bundle location found for extension SAPSE.vscode-wing-cap-run
+2023-07-18 19:00:19.752 [error] No bundle location found for extension vscode.extension-editing
+2023-07-18 19:00:19.752 [error] No bundle location found for extension vscode.json-language-features
+2023-07-18 19:00:19.950 [error] No bundle location found for extension vscode.emmet
+2023-07-18 19:00:20.228 [error] No bundle location found for extension vscode.debug-auto-launch
+2023-07-18 19:00:20.229 [error] No bundle location found for extension vscode.merge-conflict
+2023-07-18 19:00:20.251 [error] No bundle location found for extension SAPSE.hana-database-explorer
+2023-07-18 19:03:58.715 [error] Canceled: Canceled
+	at new l (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at r.O (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at Proxy.H.<computed>.x.charCodeAt.H.<computed> (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at e.ExtHostCommands.g (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:124729)
+	at e.ExtHostCommands.executeCommand (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at I.registerCommand.description (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:123398)
+	at e.ExtHostCommands.h (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:125315)
+	at e.ExtHostCommands.g (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:124205)
+	at e.ExtHostCommands.executeCommand (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at Object.executeCommand (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:24043)
+	at D (/extbin/local/openvscode-server/extensions/git/dist/main.js:2:1259661)
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/extbin/local/openvscode-server/extensions/git/dist/main.js:2:1274494)
+	at /extbin/local/openvscode-server/extensions/git/dist/main.js:2:1278940
+	at Array.forEach (<anonymous>)
+	at g.dispose (/extbin/local/openvscode-server/extensions/git/dist/main.js:2:1278926)
+	at t.<anonymous> (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:12369)
+	at t.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at t.<anonymous> (/extbin/local/openvscode-server/extensions/git/dist/main.js:2:1261791)
+	at t.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at P (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:11173)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9157
+	at Array.map (<anonymous>)
+	at v.R (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9144)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9415)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined

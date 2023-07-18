@@ -4,3 +4,9 @@
   "message": "The \"vscode-wing-expose-router-ports\" extension is now active.",
   "time": "2023-07-18T17:42:43.001Z"
 }
+{
+  "label": "vscode-wing-expose-router-ports.ExposePorts",
+  "level": "error",
+  "message": "Canceled",
+  "time": "2023-07-18T17:55:36.827Z"
+}

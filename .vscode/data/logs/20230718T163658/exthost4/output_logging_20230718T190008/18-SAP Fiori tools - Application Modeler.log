@@ -1,0 +1,69 @@
+19:00:13 [INFO] - Running activation sequence for Fiori tools - Application Modeler
+19:00:13 [INFO] - Configurations: 'sap.ux.applicationModeler.showJsonSchemas': false; isTheia(): false; isAppStudio(): true
+19:00:13 [INFO] - AppFolders: starting processing setAppFoldersContext()
+19:00:13 [INFO] - Register Fiori tools file system for configurations...
+19:00:13 [INFO] - ...Fiori tools file system registered in 0.511ms
+19:00:13 [INFO] - Register views for configurations...
+19:00:13 [INFO] - ...views for configurations registered in 0.661ms
+19:00:13 [INFO] - Register commands...
+19:00:13 [INFO] - ...commands registered in 3.213ms
+19:00:13 [INFO] - Activating sync module...
+19:00:13 [INFO] - Virtual file system ftfs initialized in 0.108ms
+19:00:13 [INFO] - Searching for projects in these workspace folders: 
+[ '/home/user/projects/HC_OFFICE_SUPLLIES' ]
+19:00:14 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+19:00:14 [INFO] - AppFolders: Function setContext() done in 1093.623ms
+19:00:15 [INFO] - SAP UX projects found and added in 1500.345ms
+19:00:15 [INFO] - Start watching **/package.json
+19:00:15 [INFO] - package.json watched in 0.582ms
+19:00:15 [INFO] - Start watching for workspace folder changes
+19:00:15 [INFO] - Workspace folders watched in 0.345ms
+19:00:15 [INFO] - Configs watched in 0.150ms
+19:00:15 [INFO] - ...sync module activated in 1503.158ms
+19:00:15 [INFO] - Register serializers...
+19:00:15 [INFO] - ...serializers registered in 0.409ms
+19:00:15 [INFO] - Activating launch config integration
+19:00:15 [INFO] - Handler for Fiori launch configuration registered
+19:00:15 [INFO] - ...launch config integration activated in 0.577ms
+19:00:15 [INFO] - Activating migration module...
+19:00:15 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching for workspace folder changes'
+19:00:15 [INFO] - Workspace folders watched in 0.399ms
+19:00:15 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/package.json'
+19:00:15 [INFO] - package.json watched in 0.382ms
+19:00:15 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/pom.xml'
+19:00:15 [INFO] - pom.xml watched in 0.381ms
+19:00:15 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/neo-app.json'
+19:00:15 [INFO] - neo-app.json watched in 0.284ms
+19:00:15 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/manifest.json'
+19:00:15 [INFO] - manifest.json watched in 0.358ms
+19:00:17 [INFO] - ...migration module activated in 1971.410ms
+19:00:17 [INFO] - activation sequence for Fiori tools - Application Modeler done in 3511.496ms
+19:01:21 [INFO] - Function getRunnables() was called
+19:01:21 [INFO] - Function getRunnables() returns
+[]
+19:01:53 [INFO] - Function getRunnables() was called
+19:01:53 [INFO] - Function getRunnables() returns
+[]
+19:02:08 [INFO] - Function getRunnables() was called
+19:02:08 [INFO] - Function getRunnables() returns
+[]
+19:02:26 [INFO] - Function getRunnables() was called
+19:02:26 [INFO] - Function getRunnables() returns
+[]
+19:02:41 [INFO] - Function getRunnables() was called
+19:02:42 [INFO] - Function getRunnables() returns
+[]

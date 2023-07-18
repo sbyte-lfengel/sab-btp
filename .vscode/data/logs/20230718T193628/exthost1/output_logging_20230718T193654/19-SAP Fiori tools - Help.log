@@ -1,0 +1,12 @@
+19:37:00 [INFO] - AppFolders: starting processing setAppFoldersContext()
+19:37:01 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+19:37:01 [INFO] - AppFolders: Function setContext() done in 1071.639ms

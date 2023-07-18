@@ -1,0 +1,18 @@
+AppFolders: starting processing setAppFoldersContext()
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 12.176ms
+AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 15.722ms
+AppFolders: Directory 'file:///home/user/projects/HC_OFFICE_SUPLLIES/gen' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3.719ms

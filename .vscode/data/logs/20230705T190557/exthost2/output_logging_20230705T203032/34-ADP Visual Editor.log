@@ -1,6 +1,0 @@
-AppFolders: starting processing setAppFoldersContext()
-AppFolders:
-	projectRoots: 0
-	subWebappRoots: 0
-	manifestAppDescRoots: 0
-AppFolders: Function setContext() done in 23.586ms

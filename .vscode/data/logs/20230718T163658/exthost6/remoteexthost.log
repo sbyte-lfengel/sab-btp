@@ -1,0 +1,514 @@
+2023-07-18 19:22:50.747 [error] Error: EEXIST: file already exists, open '/home/user/.vscode/data/User/workspaceStorage/bcad1d/vscode.lock'
+2023-07-18 19:22:50.761 [error] Error: EEXIST: file already exists, open '/home/user/.vscode/data/User/workspaceStorage/bcad1d-1/vscode.lock'
+2023-07-18 19:22:52.740 [error] No bundle location found for extension vscode.emmet
+2023-07-18 19:22:52.858 [error] No bundle location found for extension SAP.vscode-wing-cf-tools
+2023-07-18 19:22:52.858 [error] No bundle location found for extension SAPOSS.code-snippet
+2023-07-18 19:22:53.419 [error] No bundle location found for extension SAPOSS.app-studio-toolkit-themes
+2023-07-18 19:22:53.419 [error] No bundle location found for extension SAPOSS.app-studio-toolkit
+2023-07-18 19:22:53.701 [error] No bundle location found for extension SAPSE.fs-usage-popup-vscode-extensions
+2023-07-18 19:22:53.759 [error] No bundle location found for extension SAP.vscode-watt-framework-extension
+2023-07-18 19:22:53.892 [error] Error: listen EADDRINUSE: address already in use :::8888
+	at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+	at listenInCluster (node:net:1511:12)
+	at Server.listen (node:net:1599:7)
+	at Function.listen (/extbin/local/openvscode-server/extensions/vscode-watt-framework-extension/dist/extension.js:12271:24)
+	at startWattServer (/extbin/local/openvscode-server/extensions/vscode-watt-framework-extension/dist/extension.js:70346:32)
+	at activate (/extbin/local/openvscode-server/extensions/vscode-watt-framework-extension/dist/extension.js:76805:53)
+	at Function.eb (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:14705)
+	at Function.db (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:14409)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:12432
+	at async v.n (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:6644)
+	at async v.m (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:6607)
+	at async v.l (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:6064)
+2023-07-18 19:22:53.900 [error] No bundle location found for extension donjayamanne.githistory
+2023-07-18 19:22:53.900 [error] No bundle location found for extension vscode.git-base
+2023-07-18 19:22:53.900 [error] No bundle location found for extension SAPSE.sap-ux-application-modeler-extension
+2023-07-18 19:22:55.273 [error] No bundle location found for extension eamodio.gitlens
+2023-07-18 19:22:55.354 [error] No bundle location found for extension SAPSE.vscode-wing-cds-editor-bas
+2023-07-18 19:22:55.354 [error] No bundle location found for extension SAPSE.vscode-wing-expose-router-ports
+2023-07-18 19:22:55.354 [error] No bundle location found for extension SAP.vscode-wing-gerrit
+2023-07-18 19:22:55.354 [error] No bundle location found for extension SAPSE.vscode-wing-java-run
+2023-07-18 19:22:55.714 [error] Error: listen EADDRINUSE: address already in use :::3001
+	at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+	at listenInCluster (node:net:1511:12)
+	at Server.listen (node:net:1599:7)
+	at Function.y.listen (/extbin/local/openvscode-server/extensions/vscode-wing-expose-router-ports-2.0.3-release/bundle/extension.js:256:4551)
+	at /extbin/local/openvscode-server/extensions/vscode-wing-expose-router-ports-2.0.3-release/bundle/extension.js:169:66794
+	at /extbin/local/openvscode-server/extensions/vscode-wing-expose-router-ports-2.0.3-release/bundle/extension.js:169:66923
+	at t.activate (/extbin/local/openvscode-server/extensions/vscode-wing-expose-router-ports-2.0.3-release/bundle/extension.js:169:66926)
+	at Function.eb (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:14705)
+	at Function.db (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:14409)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:12432
+	at async v.n (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:6644)
+	at async v.m (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:6607)
+	at async v.l (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:6064)
+2023-07-18 19:22:55.725 [error] No bundle location found for extension mtxr.sqltools
+2023-07-18 19:22:55.840 [error] No bundle location found for extension SAPSE.sap-ux-help-extension
+2023-07-18 19:22:55.840 [error] No bundle location found for extension SAPOSS.vscode-deps-upgrade-tool
+2023-07-18 19:22:55.846 [error] No bundle location found for extension SAPOSS.vscode-dependencies-validation
+2023-07-18 19:22:57.064 [error] No bundle location found for extension vscode.npm
+2023-07-18 19:22:57.110 [error] No bundle location found for extension SAP.vscode-bas-extension
+2023-07-18 19:22:57.110 [error] No bundle location found for extension SAPSE.vscode-node-version-check
+2023-07-18 19:22:57.394 [error] No bundle location found for extension SAPSE.vscode-tasks-explorer-tasks-panel
+2023-07-18 19:22:57.489 [error] No bundle location found for extension SAPOSS.vscode-ui5-language-assistant
+2023-07-18 19:22:57.957 [error] No bundle location found for extension SAP.vscode-wing-run-config
+2023-07-18 19:22:57.957 [error] No bundle location found for extension SAPSE.vscode-cds
+2023-07-18 19:22:58.293 [error] No bundle location found for extension SAPOS.yeoman-ui
+2023-07-18 19:22:58.293 [error] No bundle location found for extension SAPSE.lcap-task-contrib
+2023-07-18 19:22:59.216 [error] No bundle location found for extension SAPOSS.guided-development
+2023-07-18 19:22:59.275 [error] No bundle location found for extension SAP.vscode-wing-welcome-screen
+2023-07-18 19:22:59.275 [error] No bundle location found for extension SAPSE.vscode-bas-fiori-tools
+2023-07-18 19:22:59.400 [error] No bundle location found for extension SAPSE.vscode-wing-storyboard
+2023-07-18 19:22:59.554 [error] No bundle location found for extension SAPSE.vscode-wing-cap-guided-development
+2023-07-18 19:22:59.970 [error] No bundle location found for extension SAPSE.webide-hdi-base-feature-vscode
+2023-07-18 19:22:59.984 [error] No bundle location found for extension SAP.vscode-bas-extensibility
+2023-07-18 19:22:59.993 [error] No bundle location found for extension SAP.hana-runtime-tools
+2023-07-18 19:23:00.001 [error] No bundle location found for extension SAP.sap-bas-vscode-w5g
+2023-07-18 19:23:00.004 [error] No bundle location found for extension sap.workflow-editor-vscode
+2023-07-18 19:23:00.090 [error] No bundle location found for extension sap.process-template-editor-vscode
+2023-07-18 19:23:00.152 [error] No bundle location found for extension vscode.git
+2023-07-18 19:23:00.152 [error] No bundle location found for extension SAPSE.webide-hdi-feature-vscode
+2023-07-18 19:23:00.575 [error] No bundle location found for extension mtxr.sqltools-driver-sqlite
+2023-07-18 19:23:00.679 [error] No bundle location found for extension SAPSE.hana-project-explorer
+2023-07-18 19:23:01.098 [error] No bundle location found for extension SAPSE.vscode-mta-tools
+2023-07-18 19:23:01.201 [error] No bundle location found for extension SAP.adp-ve-bas-ext
+2023-07-18 19:23:01.600 [error] No bundle location found for extension SAPSE.cicd-extension
+2023-07-18 19:23:01.659 [error] No bundle location found for extension SAP.hana-eim-sdi
+2023-07-18 19:23:01.666 [error] No bundle location found for extension sap.workflow-form-editor-vscode
+2023-07-18 19:23:02.060 [error] No bundle location found for extension SAPSE.vscode-wing-cap-run
+2023-07-18 19:23:02.774 [error] No bundle location found for extension SAPSE.hana-database-explorer
+2023-07-18 19:23:02.774 [error] No bundle location found for extension vscode.merge-conflict
+2023-07-18 19:23:03.064 [error] No bundle location found for extension vscode.debug-auto-launch
+2023-07-18 19:23:03.897 [error] No bundle location found for extension vscode.json-language-features
+2023-07-18 19:23:03.897 [error] No bundle location found for extension vscode.extension-editing
+2023-07-18 19:26:33.480 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.484 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.489 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.493 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.498 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.502 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.507 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.511 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.516 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.520 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.525 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.529 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.534 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.538 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.543 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.547 [error] Canceled: Canceled
+	at Object.k [as canceled] (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8281
+	at Array.forEach (<anonymous>)
+	at r.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8246)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9392)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
+2023-07-18 19:26:33.554 [error] Canceled: Canceled
+	at new l (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at r.O (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at Proxy.H.<computed>.x.charCodeAt.H.<computed> (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at e.ExtHostCommands.g (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:124729)
+	at e.ExtHostCommands.executeCommand (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at I.registerCommand.description (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:123398)
+	at e.ExtHostCommands.h (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:125315)
+	at e.ExtHostCommands.g (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:124205)
+	at e.ExtHostCommands.executeCommand (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at Object.executeCommand (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:24043)
+	at D (/extbin/local/openvscode-server/extensions/git/dist/main.js:2:1259661)
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/extbin/local/openvscode-server/extensions/git/dist/main.js:2:1274494)
+	at /extbin/local/openvscode-server/extensions/git/dist/main.js:2:1278940
+	at Array.forEach (<anonymous>)
+	at g.dispose (/extbin/local/openvscode-server/extensions/git/dist/main.js:2:1278926)
+	at t.<anonymous> (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:12369)
+	at t.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at t.<anonymous> (/extbin/local/openvscode-server/extensions/git/dist/main.js:2:1261791)
+	at t.dispose (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at P (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:11173)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9157
+	at Array.map (<anonymous>)
+	at v.R (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9144)
+	at v.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:112:9415)
+	at d.terminate (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at p (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:32349
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at c.E (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:126:20019) setContext undefined
