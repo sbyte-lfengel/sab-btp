@@ -1,0 +1,11 @@
+[Error - 1:48:55 PM] Failed to send request:
+RequestError: Connection is being rejected. The service isn’t running on the server, or incorrect proxy settings in vscode, or a firewall is blocking requests. Details: RequestError: connect ECONNREFUSED 127.0.0.1:4005.
+	at ClientRequest.<anonymous> (/extbin/local/openvscode-server/extensions/rest-client-0.24.3/dist/extension.js:252:3306)
+	at Object.onceWrapper (node:events:628:26)
+	at ClientRequest.emit (node:events:525:35)
+	at ClientRequest.e.emit (/extbin/local/openvscode-server/extensions/rest-client-0.24.3/dist/extension.js:558:29926)
+	at Socket.socketErrorListener (node:_http_client:494:9)
+	at Socket.emit (node:events:513:28)
+	at emitErrorNT (node:internal/streams/destroy:157:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
